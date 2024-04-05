@@ -70,6 +70,12 @@ Funksjonalitet og Krav:
   <li>
     <a href="https://github.com/TorAasheimOmega">Tor (for teknisk støtte)</a>
   </li>
+  <li>
+    Stackoverflow
+  </li>
+  <li>
+    ChatGPT
+  </li>
 </ul>
 
 ## Fremgangsmåte:
