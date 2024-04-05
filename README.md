@@ -71,7 +71,28 @@ Bootstrap icons
     <p>Lage tabellene</p>
     <ul>
       <li>
-        Legger inn sikkerhet i triggerene (Insert, Update, Delete)
+        <details>
+          <summary>
+            Lager tabellstruktur
+          </summary>
+          <p>
+            For å dekke mest mulig av kravene så har jeg delt det opp slik at vi har en tabell for quizer. 
+            Denne tabellen kan kun brukere med "Arvid Wedtstein Quiz Admin" rollen legge til, endre og slette data.
+            <br>
+            Så har vi en sub tabell for spørsmål i quizen. Denne har en mange-til-en relasjon til quiz tabellen. 
+            <br>
+            Denne tabellen igjen har en sub tabell for svar til hvert spørsmål hvor rette svar markeres med IsCorrect bit felt. 
+            Om bare ett av svarene til et spørsmål har IsCorrect definert som 1 (true) så blir spørsmålet et "radio choice" felt, dersom det er flere som er markert som rette så blir det "multiple choice",
+          </p>
+        </details>
+      </li>
+      <li>
+        <details>
+          <summary>
+            Legger inn sikkerhet i triggerene (Insert, Update, Delete)
+          </summary>
+          <p>I Omega 365 rammeverket så løses tilganger gjennom roller</p>
+        </details>
       </li>
     </ul>
   </li>
