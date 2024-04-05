@@ -59,11 +59,19 @@ Bootstrap icons
 ## Eventuelle informasjonskilder:
 - Vue Docs
 - Bootstrap Docs
-- 
+- Omega 365 Docs
 
 
 ## Fremgangsmåte:
 - Planlegga tabellstruktur og sikkerhet
+Lager deretter tabellene og appene (hovedside og details) (mobile first)
+Legger til planlagt funksjonalitet (se Skisse av løsningen).
+Registrering og pålogging løses i appframe (NT) rammeverket da dette eksisterer her fra før.
+Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.
+Tester gjennom appen(e) og dokumenterer dette.
+Dokumenterer hva jeg har gjort underveis.
+Lager brukeranvisning.
+Lage presentasjon.
 
 
 ## Arbeidsoppgaver:
@@ -74,6 +82,109 @@ Bootstrap icons
 https://drawsql.app/teams/arvid/diagrams/quiz-application
 
 ## Tidsskjema:
+
+<details>
+    <summary>
+      Fredag <sub>05.04</sub>
+    </summary>
+
+<ul>
+  <li>Planlegging</li>
+  <li>Lage tabellstruktur (ca 1.5t)</li>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Lørdag <sub>06.04</sub>
+    </summary>
+  
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Søndag <sub>07.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Mandag <sub>08.04</sub>
+    </summary>
+  
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Tirsdag <sub>09.04</sub>
+    </summary>
+
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Onsdag <sub>10.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Torsdag <sub>11.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Fredag <sub>12.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Lørdag <sub>13.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Søndag <sub>14.04</sub>
+    </summary>
+
+<ul>
+  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+</ul>
+</details>
+<details>
+    <summary>
+      Mandag <sub>15.04</sub>
+    </summary>
+
+- Presentasjon
+- Egenvurdering
+</details>
+
 
 <table>
   <thead>
