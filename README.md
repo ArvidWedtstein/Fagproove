@@ -28,7 +28,7 @@ Funksjonalitet og Krav:
 
  <ol>
     <li>
-      <p>Omega 365 NT rammeverket</p>
+      <p>Omega 365 (NT) rammeverket</p>
       Fordi det har innebygd sikkerhet, enkelt å komme igang med og er en av bedriftens standard rammeverk
        <ul>
         <li>
@@ -173,7 +173,7 @@ Funksjonalitet og Krav:
     <li>Planlegging (skriva denna her) (ca 1t)</li>
     <li>Lage tabellstruktur (ca 2t)</li>
     <li>Lage skisse (ca 3t)</li>
-    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+    <li>Dokumentere dagens arbeid (ca 0.25t)</li>
   </ul>
 </details>
 <details>
@@ -182,7 +182,9 @@ Funksjonalitet og Krav:
   </summary>
     
   <ul>
-    <li>Lage tabeller, views, stored procedures (ca 7t)</li>
+    <li>Laga roller og moduler for sikkerhet (ca 0.5t)</li>
+    <li>Lage tabeller, views, stored procedures (ca 2t)</li>
+    <li>Sette opp appene og legge til modulen for å bestemme hvem som kan se hva (ca 4.5t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -193,6 +195,8 @@ Funksjonalitet og Krav:
 
 
   <ul>
+    <li>Fortsette på forsiden (den som viser alle quizzene) (6t)</li>
+    <li>Tid til eventuelle scope endringer (1t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -202,7 +206,8 @@ Funksjonalitet og Krav:
   </summary>
   
   <ul>
-    <li>Tid til eventuelle scope endringer (2t)</li>
+    <li>Bli ferdig med forsiden, og så gå over til siden for quiz (6t)</li>
+    <li>Tid til eventuelle scope endringer i tilfelle de ikke kom igår (2t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -212,6 +217,8 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
+    <li>Bli ferdig med quiz siden (ca 5t)</li>
+    <li>Begynne på test rapport der jeg går gjennom appens funksjoner og tester underveis (ca 4t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -221,6 +228,8 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
+    <li>Lage brukerveilending dokumentasjon. (ca 6.5t)</li>
+    <li>Lage system dokumentasjon. (ca 6.5t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
