@@ -24,12 +24,12 @@ Funksjonalitet og Krav:
 - Gjenstartfunksjon: La brukeren starte quizen på nytt med et enkelt klikk. 
 - Design: Design som møter grunnleggende krav til universell utforming og tilgjengelighet. 
 
-## Utstyr
+## Teknologi
 
  <ol>
     <li>
       <p>Omega 365 (NT) rammeverket</p>
-      Fordi det har innebygd sikkerhet, enkelt å komme igang med og er en av bedriftens standard rammeverk
+      Fordi det har innebygd sikkerhet, enkelt å komme igang med, er en av bedriftens standard rammeverk og fordi jeg har fått utrolig mye kjennskap til det. I tillegg så har rammeverket en god del komponenter som gjør ting lettere i forhold til å lage dem selv. 
        <ul>
         <li>
           Vue.js
@@ -57,11 +57,20 @@ Funksjonalitet og Krav:
   </ol>
 
 ## Eventuelle informasjonskilder:
-- Vue Docs
-- Bootstrap Docs
-- Omega 365 Docs
-- Tor (for teknisk støtte)
-
+<ul>
+  <li>
+    <a href="https://vuejs.org/">Vue Docs</a>
+  </li>
+  <li>
+    <a href="https://getbootstrap.com/docs/5.3">Bootstrap Docs</a>
+  </li>
+  <li>
+    Omega 365 Docs (Har dessverre ikke link til denne. Ligger litt spredt rundt i diverse apper)
+  </li>
+  <li>
+    <a href="https://github.com/TorAasheimOmega">Tor (for teknisk støtte)</a>
+  </li>
+</ul>
 
 ## Fremgangsmåte:
 <ol>
@@ -217,8 +226,9 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
-    <li>Bli ferdig med quiz siden (ca 5t)</li>
-    <li>Begynne på test rapport der jeg går gjennom appens funksjoner og tester underveis (ca 4t)</li>
+    <li>Bli ferdig med quiz siden (ca 4t)</li>
+    <li>Begynne på test rapport der jeg går gjennom appens funksjoner og tester underveis (ca 2t)</li>
+    <li>Fikse eventuelle feil som oppsto under testing</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -228,8 +238,8 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
-    <li>Lage brukerveilending dokumentasjon. (ca 6.5t)</li>
-    <li>Lage system dokumentasjon. (ca 6.5t)</li>
+    <li>Lage brukerveilending (ca 3t)</li>
+    <li>Lage system dokumentasjon. (ca 5t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -239,7 +249,8 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
-    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+    <li>Fullføre det jeg ikke ble ferdig med på fredag</li>
+    <li>Dokumentere dagens arbeid (vis det ble noe arbeid i det hele tatt) (ca 0.5t)</li>
   </ul>
 </details>
 <details>
@@ -248,7 +259,9 @@ Funksjonalitet og Krav:
   </summary>
 
   <ul>
-    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+    <li>Fullføre det jeg ikke ble ferdig med på lørdag</li>
+    <li>Forberedelser for presentasjon</li>
+    <li>Dokumentere dagens arbeid (vis det ble noe arbeid i det hele tatt) (ca 0.5t)</li>
   </ul>
 </details>
 <details>
