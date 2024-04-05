@@ -57,6 +57,9 @@
   <summary>
     <h2>05.04</h2>
   </summary>
+  <p>
+    Fiksa figma skissa, laget tabellstruktur. Vurdert ka som e beste måten å løsa detta på. 
+  </p>
 
 
 <hr>
