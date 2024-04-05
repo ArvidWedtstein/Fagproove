@@ -146,20 +146,6 @@ Bootstrap icons
   </li>
 </ol>
 
-## Arbeidsoppgaver:
-
-<ul>
-  <li>Planlegge, lage tabellstruktur og en ca skisse av løsningen</li>
-  <li>Lage tabeller, views og stored procedures.</li>
-  <li>Inserte data i tabellene</li>
-  <li>Sette opp trigger security.</li>
-  <li>Lage sider og dialoger</li>
-  <li>Lage systemdokumentasjon</li>
-  <li>Lage brukerveiledning.</li>
-  <li>Teste funksjonalitet, dokumentere testresultat</li>
-  <li>Lage presentasjon</li>
-</ul>
-
 
 ## Skisse av løsningen:
 
