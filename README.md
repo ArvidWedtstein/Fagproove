@@ -101,6 +101,8 @@ Bootstrap icons
             Sikkerhet for tabellene med triggerene (Insert, Update, Delete)
           </summary>
           <p>I Omega 365 rammeverket så løses tilganger (blant annet) gjennom roller. Disse rollene er koblet på moduler, som igjen er koblet på apper. Tabeller som denne modulen skal ha select tilgang til legges inn i modulen.</p>
+          <p>I triggerene så sjekkes det då opp mot disse rollene, og styrer dermed om brukeren får opprette eller ikke.</p>
+          <p>Å bare ha sjekk i triggeren(e) er (for min del) ikke nok. Jeg ønsker også at f.eks knappen for å opprette ny quiz ikke skal være synlig for folk som ikke har tilgang en gang. Derfor kommer jeg til å lage et sql view som returnerer disse tilgangene, og dermed gjør det mulig å gjemme knappene frontend.</p>
         </details>
       </li>
     </ul>
