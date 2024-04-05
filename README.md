@@ -98,197 +98,107 @@ https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&n
 ## Tidsskjema:
 
 <details>
-    <summary>
-      Fredag <sub>05.04</sub>
-    </summary>
+  <summary>
+    Fredag <sub>05.04</sub>
+  </summary>
 
-<ul>
-  <li>Planlegging</li>
-  <li>Lage tabellstruktur (ca 1.5t)</li>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Planlegging</li>
+    <li>Lage tabellstruktur (ca 1.5t)</li>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Lørdag <sub>06.04</sub>
-    </summary>
+  <summary>
+    Lørdag <sub>06.04</sub>
+  </summary>
   
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Søndag <sub>07.04</sub>
-    </summary>
+  <summary>
+    Søndag <sub>07.04</sub>
+  </summary>
 
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Mandag <sub>08.04</sub>
-    </summary>
+  <summary>
+    Mandag <sub>08.04</sub>
+  </summary>
+    
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    Tirsdag <sub>09.04</sub>
+  </summary>
+
+
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    Onsdag <sub>10.04</sub>
+  </summary>
   
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Tirsdag <sub>09.04</sub>
-    </summary>
+  <summary>
+    Torsdag <sub>11.04</sub>
+  </summary>
 
-
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Onsdag <sub>10.04</sub>
-    </summary>
+  <summary>
+    Fredag <sub>12.04</sub>
+  </summary>
 
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Torsdag <sub>11.04</sub>
-    </summary>
+  <summary>
+    Lørdag <sub>13.04</sub>
+  </summary>
 
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Fredag <sub>12.04</sub>
-    </summary>
+  <summary>
+    Søndag <sub>14.04</sub>
+  </summary>
 
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
+  </ul>
 </details>
 <details>
-    <summary>
-      Lørdag <sub>13.04</sub>
-    </summary>
+  <summary>
+    Mandag <sub>15.04</sub>
+  </summary>
 
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
+  <ul>
+    <li>Presentera (tar så lang tid det tar)</li>
+    <li>Egenvurdering</li>
+  </ul>
 </details>
-<details>
-    <summary>
-      Søndag <sub>14.04</sub>
-    </summary>
-
-<ul>
-  <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-</ul>
-</details>
-<details>
-    <summary>
-      Mandag <sub>15.04</sub>
-    </summary>
-
-- Presentasjon
-- Egenvurdering
-</details>
-
-
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Day</th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>05.04</th>
-      <td>Freday</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>06.04</th>
-      <td>Lørdag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>07.04</th>
-      <td>Søndag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>08.04</th>
-      <td>Mandag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>09.04</th>
-      <td>Tirsdag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>10.04</th>
-      <td>Onsdag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>11.04</th>
-      <td>Torsdag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>12.04</th>
-      <td>Fredag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>13.04</th>
-      <td>Lørdag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>14.04</th>
-      <td>Søndag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>15.04</th>
-      <td>Mandag</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
 
