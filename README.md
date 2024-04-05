@@ -1,7 +1,16 @@
-<h1>Fagprøve</h1>
+<div align="center">
+  <a href="https://github.com/ArvidWedtstein/Fagproove">
+    <img src="https://content.energage.com/company-images/SE45893/SE45893_logo_orig.png" alt="Logo" width="200" height="200">
+  </a>
 
-Planlegging:
+  <h3 align="center">Planlegging</h3>
 
+  <p align="center">
+    <b>Fagprøve</b>
+    <br />
+    <sub>05.04.24 - 15.04.24</sub>
+  </p>
+</div>
 
 ## Målet med oppgaven:
 Utvikle en enkel quiz-app hvor brukere kan svare på spørsmål med flere valgmuligheter, se sin poengsum ved slutten, og prøve igjen. Spørsmål og metadata ligger på en server, med et dokumentert integrasjonslag mellom klient og server. 
