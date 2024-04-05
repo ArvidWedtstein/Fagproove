@@ -4,10 +4,48 @@ Planlegging:
 
 
 ## Målet med oppgaven:
+Utvikle en enkel quiz-app hvor brukere kan svare på spørsmål med flere valgmuligheter, se sin poengsum ved slutten, og prøve igjen. Spørsmål og metadata ligger på en server, med et dokumentert integrasjonslag mellom klient og server. 
 
+
+Funksjonalitet og Krav: 
+
+- Applikasjonskomponenter: Klient-applikasjon for visning av spørsmål, server lagrer spørsmål og tilbyr disse via et sikret API. 
+- Quizfunksjonalitet: Flervalgsspørsmål med umiddelbar tilbakemelding på om svaret er riktig eller feil. 
+- Poengsum: Beregn og vis brukerens poengsum ved slutten av quizen. 
+- Gjenstartfunksjon: La brukeren starte quizen på nytt med et enkelt klikk. 
+- Design: Design som møter grunnleggende krav til universell utforming og tilgjengelighet. 
 
 ## Utstyr
+Omega 365 NT rammeverket / Vue.js fordi dette har brukerregistrering/innlogging integrert og er lett å komme igang med.
+DrawSQL for å tegne Tabellstruktur
+Bootstrap icons
 
+ <ol>
+    <li>
+      <p>Omega 365 NT rammeverket</p>
+      <small>Fordi det har innebygd sikkerhet</small>
+       <ul>
+        <li>
+          Vue.js
+        </li>
+        <li>
+         Bootstrap
+        </li>
+        <li>
+          Transact SQL
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>Github</p>
+    </li>
+    <li>
+      <p>DrawSQL</p>
+    </li>
+    <li>
+      <p>Figma</p>
+    </li>
+  </ol>
 
 ## Eventuelle informasjonskilder:
 - Vue Docs
