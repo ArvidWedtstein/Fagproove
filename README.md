@@ -25,14 +25,11 @@ Funksjonalitet og Krav:
 - Design: Design som møter grunnleggende krav til universell utforming og tilgjengelighet. 
 
 ## Utstyr
-Omega 365 NT rammeverket / Vue.js fordi dette har brukerregistrering/innlogging integrert og er lett å komme igang med.
-DrawSQL for å tegne Tabellstruktur
-Bootstrap icons
 
  <ol>
     <li>
       <p>Omega 365 NT rammeverket</p>
-      <small>Fordi det har innebygd sikkerhet</small>
+      Fordi det har innebygd sikkerhet, enkelt å komme igang med og er en av bedriftens standard rammeverk
        <ul>
         <li>
           Vue.js
@@ -47,12 +44,15 @@ Bootstrap icons
     </li>
     <li>
       <p>Github</p>
+      Fordi det va enklast å laga dokumentasjon i og lett å invitera andre.
     </li>
     <li>
       <p>DrawSQL</p>
+      Fordi den var perfekt for å lage sql tabell diagram. Vi har i teorien en intern løsning for dette, men har av en eller annen grunn ikke fått tilgang til denne.
     </li>
     <li>
       <p>Figma</p>
+      Paint va ikkje et alternativ, så då blei det figma og fordi det er ganske enkelt å bruke figma.
     </li>
   </ol>
 
@@ -60,6 +60,7 @@ Bootstrap icons
 - Vue Docs
 - Bootstrap Docs
 - Omega 365 Docs
+- Tor (for teknisk støtte)
 
 
 ## Fremgangsmåte:
@@ -83,7 +84,7 @@ Bootstrap icons
             Så har vi en sub tabell for spørsmål i quizen. Denne har en mange-til-en relasjon til quiz tabellen. 
           </p>
           <p>
-            Spørsmåls tabellen har også en mange-til-en relasjon til en tabell for spørsmålstyper. Det er typen som bestemmer om spørsmålet blir "multi choice", "radio", tekst brukeren kan skrive inn selv, dato som bruker kan skrive inn selv osv.
+            Spørsmålstabellen har også en mange-til-en relasjon til en tabell for spørsmålstyper. Det er typen som bestemmer om spørsmålet blir "multi choice", "radio", tekst brukeren kan skrive inn selv, dato som bruker kan skrive inn selv osv.
           </p>
           <p>
             Spørsmålstabellen har enda en sub tabell for svar alternativer til hvert spørsmål.
@@ -103,6 +104,7 @@ Bootstrap icons
           <p>I Omega 365 rammeverket så løses tilganger (blant annet) gjennom roller. Disse rollene er koblet på moduler, som igjen er koblet på apper. Tabeller som denne modulen skal ha select tilgang til legges inn i modulen.</p>
           <p>I triggerene så sjekkes det då opp mot disse rollene, og styrer dermed om brukeren får opprette eller ikke.</p>
           <p>Å bare ha sjekk i triggeren(e) er (for min del) ikke nok. Jeg ønsker også at f.eks knappen for å opprette ny quiz ikke skal være synlig for folk som ikke har tilgang en gang. Derfor kommer jeg til å lage et sql view som returnerer disse tilgangene, og dermed gjør det mulig å gjemme knappene frontend.</p>
+          <p>Select permission ordes ved å sjekke opp mot brukerens tilganger i et sql view.</p>
         </details>
       </li>
     </ul>
@@ -180,6 +182,7 @@ Bootstrap icons
   </summary>
     
   <ul>
+    <li>Lage tabeller, views, stored procedures (ca 7t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -199,7 +202,7 @@ Bootstrap icons
   </summary>
   
   <ul>
-    <li>Setter av tid til eventuelle scope endringer (2t)</li>
+    <li>Tid til eventuelle scope endringer (2t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
