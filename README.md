@@ -132,7 +132,7 @@ Funksjonalitet og Krav:
           <p>
             Bestemte meg for å gå for å bruke karusell istedenfor å liste spørsmålene nedover siden det virket rart å ha umiddelbar tilbakemelding når spørsmålene ligger under hverandre.
             Grunnet support for flervalgsspørsmål og fritekst input, så blir resultatet om svaret er feil eller rett først visst etter at bruker trykker "next". 
-            Resultat vil da vise, og poengsummen øke (om brukeren valgte rett). Etter et paar sekund vil ha neste spørsmål vises
+            Resultat vil da vise, og poengsummen øke (om brukeren valgte rett). Etter et paar sekund vil ha neste spørsmål vises. (Er godt mulig detta endre seg underveis. Har ikke klart å bestemma meg 100%, men til nå var dette det beste jeg kom på)
           </p>
           <p>
             Har prøvd å få til en ca <a href="https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1">figma skisse</a> om hvordan jeg tenker layouten kan være. 
