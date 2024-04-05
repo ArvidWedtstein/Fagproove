@@ -78,11 +78,16 @@ Bootstrap icons
           <p>
             For å dekke mest mulig av kravene så har jeg delt det opp slik at vi har en tabell for quizer. 
             Denne tabellen kan kun brukere med "Arvid Wedtstein Quiz Admin" rollen legge til, endre og slette data.
-            <br>
+          </p>
+          <p>
             Så har vi en sub tabell for spørsmål i quizen. Denne har en mange-til-en relasjon til quiz tabellen. 
-            <br>
+          </p>
+          <p>
             Denne tabellen igjen har en sub tabell for svar til hvert spørsmål hvor rette svar markeres med IsCorrect bit felt. 
-            Om bare ett av svarene til et spørsmål har IsCorrect definert som 1 (true) så blir spørsmålet et "radio choice" felt, dersom det er flere som er markert som rette så blir det "multiple choice",
+            Om bare ett av svarene til et spørsmål har IsCorrect definert som 1 (true) så blir spørsmålet et "radio choice" felt, dersom det er flere som er markert som rette så blir det "multiple choice" og vis bare et svar eksisterer på spørsmålet så blir det text.
+          </p>
+          <p>
+            Så har me ein tabell for Quiz Attempts. Her e (planen) at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell for svar og brukerens valgte svar.
           </p>
         </details>
       </li>
