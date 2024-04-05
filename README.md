@@ -63,8 +63,20 @@ Bootstrap icons
 
 
 ## Fremgangsmåte:
-- Planlegga tabellstruktur og sikkerhet
-- Lager deretter tabellene og appene (hovedside og details) (mobile first)
+<ol>
+  <li>
+    <p>Planlegga tabellstruktur, sikkerhet og design layout</p>
+  </li>
+  <li>
+    <p>Lage tabellene</p>
+  </li>
+  <li>
+    <p></p>
+  </li>
+</ol>
+- Planlegga tabellstruktur, sikkerhet og design layout
+- Lage tabellene
+- Lager deretter appene (mobile first)
 - Legger til planlagt funksjonalitet (se Skisse av løsningen).
 - Registrering og pålogging løses i appframe (NT) rammeverket da dette eksisterer her fra før.
 - Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.
@@ -90,10 +102,9 @@ Bootstrap icons
 
 ## Skisse av løsningen:
 
-SQL Struktur
-https://drawsql.app/teams/arvid/diagrams/quiz-application
+<a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">SQL Tabell Struktur</a>
 
-https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1
+<a href="https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1">Grov Figma Skisse</a>
 
 ## Tidsskjema:
 
