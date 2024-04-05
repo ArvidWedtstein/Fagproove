@@ -91,7 +91,7 @@ Bootstrap icons
             Her kan bare antallet av svaralternativer er avhengig av hvilken svartype spørsmålet har.
           </p>
           <p>
-            Så har me ein tabell for Quiz Attempts. Her er planen at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell for svar og brukerens valgte svar.
+            Så har me ein tabell for Quiz Attempts. Her er planen at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell som lagrer brukerens svar for hvert spørsmål.
           </p>
         </details>
       </li>
