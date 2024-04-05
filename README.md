@@ -64,22 +64,36 @@ Bootstrap icons
 
 ## Fremgangsmåte:
 - Planlegga tabellstruktur og sikkerhet
-Lager deretter tabellene og appene (hovedside og details) (mobile first)
-Legger til planlagt funksjonalitet (se Skisse av løsningen).
-Registrering og pålogging løses i appframe (NT) rammeverket da dette eksisterer her fra før.
-Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.
-Tester gjennom appen(e) og dokumenterer dette.
-Dokumenterer hva jeg har gjort underveis.
-Lager brukeranvisning.
-Lage presentasjon.
-
+- Lager deretter tabellene og appene (hovedside og details) (mobile first)
+- Legger til planlagt funksjonalitet (se Skisse av løsningen).
+- Registrering og pålogging løses i appframe (NT) rammeverket da dette eksisterer her fra før.
+- Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.
+- Tester gjennom appen(e) og dokumenterer dette.
+- Dokumenterer hva jeg har gjort underveis.
+- Lager brukeranvisning.
+- Lage presentasjon.
 
 ## Arbeidsoppgaver:
+
+<ul>
+  <li>Planlegge, lage tabellstruktur og en ca skisse av løsningen</li>
+  <li>Lage tabeller, views og stored procedures.</li>
+  <li>Inserte data i tabellene (tar meg friheten til å hente data og bilder for items fra mitt personlige prosjekt, ArkDashboard. Bildene her er lisensiert for non-commercial use, så i tilfelle dette hadde vært brukt til virkelig oppdrag, så hadde jeg gått for noe annet)</li>
+  <li>Sette opp trigger security. Brukeren skal kun få redigere sine egne handleliste og de brukeren har fått delt</li>
+  <li>Lage sider og dialoger</li>
+  <li>Lage systemdokumentasjon</li>
+  <li>Lage brukerveiledning.</li>
+  <li>Teste funksjonalitet, dokumentere testresultat</li>
+  <li>Lage presentasjon</li>
+</ul>
 
 
 ## Skisse av løsningen:
 
+SQL Struktur
 https://drawsql.app/teams/arvid/diagrams/quiz-application
+
+https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1
 
 ## Tidsskjema:
 
