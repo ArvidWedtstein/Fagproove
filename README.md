@@ -16,7 +16,7 @@ Planlegging:
 
 
 ## Fremgangsmåte:
-
+- Planlegga tabellstruktur og sikkerhet
 
 
 ## Arbeidsoppgaver:
@@ -24,6 +24,7 @@ Planlegging:
 
 ## Skisse av løsningen:
 
+https://drawsql.app/teams/arvid/diagrams/quiz-application
 
 ## Tidsskjema:
 
