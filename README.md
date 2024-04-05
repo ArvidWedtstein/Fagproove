@@ -83,9 +83,12 @@ Bootstrap icons
             Så har vi en sub tabell for spørsmål i quizen. Denne har en mange-til-en relasjon til quiz tabellen. 
           </p>
           <p>
-            Denne tabellen igjen har en sub tabell for svar til hvert spørsmål hvor rette svar markeres med IsCorrect bit felt.
-            Denne tabellen har en mange-til-en relasjon til en tabell for spørsmålstyper. Det er typen som bestemmer om spørsmålet blir "multi choice", "radio", tekst, dato osv.
-            Om bare ett av svarene til et spørsmål har IsCorrect definert som 1 (true) så blir spørsmålet et "radio choice" felt, dersom det er flere som er markert som rette så blir det "multiple choice" og vis bare et svar eksisterer på spørsmålet så blir det text.
+            Spørsmåls tabellen har også en mange-til-en relasjon til en tabell for spørsmålstyper. Det er typen som bestemmer om spørsmålet blir "multi choice", "radio", tekst brukeren kan skrive inn selv, dato som bruker kan skrive inn selv osv.
+          </p>
+          <p>
+            Spørsmålstabellen har enda en sub tabell for svar alternativer til hvert spørsmål.
+            Rette svar markeres med IsCorrect bit felt.
+            Her kan bare antallet av svaralternativer er avhengig av hvilken svartype spørsmålet har.
           </p>
           <p>
             Så har me ein tabell for Quiz Attempts. Her er planen at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell for svar og brukerens valgte svar.
@@ -97,13 +100,13 @@ Bootstrap icons
           <summary>
             Sikkerhet for tabellene med triggerene (Insert, Update, Delete)
           </summary>
-          <p>I Omega 365 rammeverket så løses tilganger gjennom roller</p>
+          <p>I Omega 365 rammeverket så løses tilganger (blant annet) gjennom roller. Disse rollene er koblet på moduler, som igjen er koblet på apper. Tabeller som denne modulen skal ha select tilgang til legges inn i modulen.</p>
         </details>
       </li>
     </ul>
   </li>
   <li>
-    <p>Lager deretter appene (mobile first)</p>
+    <p>Lager deretter appene og dialoger</p>
     <ul>
       <li>
         <details>
@@ -111,13 +114,14 @@ Bootstrap icons
             Design
           </summary>
           <p>
-            I designprosessen så var planen å ha støtte for både mobil og desktop visning i tillegg til standard brukervennlighet.  
+            I designprosessen så var planen å ha støtte for både mobil og desktop visning i tillegg til standard brukervennlighet.
+          </p>
+          <p>
+            Bestemte meg for å gå for å bruke karusell istedenfor å liste spørsmålene nedover siden det virket rart å ha umiddelbar tilbakemelding når spørsmålene ligger under hverandre.
+            Grunnet support for flervalgsspørsmål og fritekst input, så blir resultatet om svaret er feil eller rett først visst etter at bruker trykker til neste spørsmål.
           </p>
           <p>
             Har prøvd å få til en ca <a href="https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1">figma skisse</a> om hvordan jeg tenker layouten kan være. 
-          </p>
-          <p>
-            For å 
           </p>
         </details>
       </li>
@@ -139,7 +143,7 @@ Bootstrap icons
     <p>Lager system dokumentasjon</p>
   </li>
   <li>
-    <p>Lager brukeranvisning (på engelsk, norsk og tysk om jeg får tid).</p>
+    <p>Lager brukeranvisning på engelsk (eventuelt norsk og tysk i tilleg om jeg får tid).</p>
   </li>
   <li>
     <p>Lage presentasjon.</p>
@@ -161,26 +165,9 @@ Bootstrap icons
   </summary>
 
   <ul>
-    <li>Planlegging</li>
-    <li>Lage tabellstruktur (ca 1.5t)</li>
-    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-  </ul>
-</details>
-<details>
-  <summary>
-    Lørdag <sub>06.04</sub>
-  </summary>
-  
-  <ul>
-    <li>Dokumentere dagens arbeid (ca 0.5t)</li>
-  </ul>
-</details>
-<details>
-  <summary>
-    Søndag <sub>07.04</sub>
-  </summary>
-
-  <ul>
+    <li>Planlegging (skriva denna her) (ca 2t)</li>
+    <li>Lage tabellstruktur (ca 2t)</li>
+    <li>Lage skisse (ca 2t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
@@ -209,6 +196,7 @@ Bootstrap icons
   </summary>
   
   <ul>
+    <li>Setter av tid til eventuelle scope endringer (2t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
