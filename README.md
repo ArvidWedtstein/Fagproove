@@ -69,29 +69,45 @@ Bootstrap icons
   </li>
   <li>
     <p>Lage tabellene</p>
+    <ul>
+      <li>
+        Legger inn sikkerhet i triggerene (Insert, Update, Delete)
+      </li>
+    </ul>
   </li>
   <li>
-    <p></p>
+    <p>Lager deretter appene (mobile first)</p>
+  </li>
+  <li>
+    <p>Legger til planlagt funksjonalitet (se Skisse av løsningen).</p>
+  </li>
+  <li>
+    <p>Legger opp for mulighet for brukerregistrering og pålogging</p>
+  </li>
+  <li>
+    <p>Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.</p>
+  </li>
+  <li>
+    <p>Tester gjennom appen(e) og dokumenterer dette i en test rapport.</p>
+  </li>
+  <li>
+    <p>Lager system dokumentasjon</p>
+  </li>
+  <li>
+    <p>Lager brukeranvisning (på engelsk, norsk og tysk om jeg får tid).</p>
+  </li>
+  <li>
+    <p>Lage presentasjon.</p>
   </li>
 </ol>
-- Planlegga tabellstruktur, sikkerhet og design layout
-- Lage tabellene
-- Lager deretter appene (mobile first)
-- Legger til planlagt funksjonalitet (se Skisse av løsningen).
-- Registrering og pålogging løses i appframe (NT) rammeverket da dette eksisterer her fra før.
-- Legger eventuelt til bonusfunksjonalitet, avhengig av tid til overs.
-- Tester gjennom appen(e) og dokumenterer dette.
-- Dokumenterer hva jeg har gjort underveis.
-- Lager brukeranvisning.
-- Lage presentasjon.
 
 ## Arbeidsoppgaver:
 
 <ul>
   <li>Planlegge, lage tabellstruktur og en ca skisse av løsningen</li>
   <li>Lage tabeller, views og stored procedures.</li>
-  <li>Inserte data i tabellene (tar meg friheten til å hente data og bilder for items fra mitt personlige prosjekt, ArkDashboard. Bildene her er lisensiert for non-commercial use, så i tilfelle dette hadde vært brukt til virkelig oppdrag, så hadde jeg gått for noe annet)</li>
-  <li>Sette opp trigger security. Brukeren skal kun få redigere sine egne handleliste og de brukeren har fått delt</li>
+  <li>Inserte data i tabellene</li>
+  <li>Sette opp trigger security.</li>
   <li>Lage sider og dialoger</li>
   <li>Lage systemdokumentasjon</li>
   <li>Lage brukerveiledning.</li>
