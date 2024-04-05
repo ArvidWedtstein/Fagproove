@@ -140,7 +140,7 @@ Funksjonalitet og Krav:
           </p>
           <p>
             Grunnet support for flervalgsspørsmål og fritekst input, så blir resultatet om svaret er feil eller rett først visst etter at bruker trykker "next". 
-            Resultat vil da vise, og poengsummen øke (om brukeren valgte rett). Etter et paar sekund vil ha neste spørsmål vises. 
+            Resultat vil da vise, og poengsummen øke (om brukeren valgte rett). Etter at brukeren trykker på next en gang til så vil neste spørsmål vises. 
           </p>
           <p>
             (Er godt mulig detta endre seg underveis. Har ikke klart å bestemma meg 100%, men til nå var dette det beste jeg kom på)
