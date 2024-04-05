@@ -83,18 +83,19 @@ Bootstrap icons
             Så har vi en sub tabell for spørsmål i quizen. Denne har en mange-til-en relasjon til quiz tabellen. 
           </p>
           <p>
-            Denne tabellen igjen har en sub tabell for svar til hvert spørsmål hvor rette svar markeres med IsCorrect bit felt. 
+            Denne tabellen igjen har en sub tabell for svar til hvert spørsmål hvor rette svar markeres med IsCorrect bit felt.
+            Denne tabellen har en mange-til-en relasjon til en tabell for spørsmålstyper. Det er typen som bestemmer om spørsmålet blir "multi choice", "radio", tekst, dato osv.
             Om bare ett av svarene til et spørsmål har IsCorrect definert som 1 (true) så blir spørsmålet et "radio choice" felt, dersom det er flere som er markert som rette så blir det "multiple choice" og vis bare et svar eksisterer på spørsmålet så blir det text.
           </p>
           <p>
-            Så har me ein tabell for Quiz Attempts. Her e (planen) at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell for svar og brukerens valgte svar.
+            Så har me ein tabell for Quiz Attempts. Her er planen at det skal opprettes en rad for hver gang en bruker kjører quizen. Denne tabellen lagrer også brukerens endelige poengsum. Denne har en sub tabell for svar og brukerens valgte svar.
           </p>
         </details>
       </li>
       <li>
         <details>
           <summary>
-            Legger inn sikkerhet i triggerene (Insert, Update, Delete)
+            Sikkerhet for tabellene med triggerene (Insert, Update, Delete)
           </summary>
           <p>I Omega 365 rammeverket så løses tilganger gjennom roller</p>
         </details>
@@ -103,6 +104,24 @@ Bootstrap icons
   </li>
   <li>
     <p>Lager deretter appene (mobile first)</p>
+    <ul>
+      <li>
+        <details>
+          <summary>
+            Design
+          </summary>
+          <p>
+            I designprosessen så var planen å ha støtte for både mobil og desktop visning i tillegg til standard brukervennlighet.  
+          </p>
+          <p>
+            Har prøvd å få til en ca <a href="https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1">figma skisse</a> om hvordan jeg tenker layouten kan være. 
+          </p>
+          <p>
+            For å 
+          </p>
+        </details>
+      </li>
+    </ul>
   </li>
   <li>
     <p>Legger til planlagt funksjonalitet (se Skisse av løsningen).</p>
