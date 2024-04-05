@@ -1,5 +1,6 @@
 <h1>Fagprøve</h1>
 
+Planlegging:
 
 
 ## Målet med oppgaven:
@@ -9,7 +10,9 @@
 
 
 ## Eventuelle informasjonskilder:
-
+- Vue Docs
+- Bootstrap Docs
+- 
 
 
 ## Fremgangsmåte:
