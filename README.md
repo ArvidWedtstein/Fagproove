@@ -118,7 +118,8 @@ Bootstrap icons
           </p>
           <p>
             Bestemte meg for å gå for å bruke karusell istedenfor å liste spørsmålene nedover siden det virket rart å ha umiddelbar tilbakemelding når spørsmålene ligger under hverandre.
-            Grunnet support for flervalgsspørsmål og fritekst input, så blir resultatet om svaret er feil eller rett først visst etter at bruker trykker til neste spørsmål.
+            Grunnet support for flervalgsspørsmål og fritekst input, så blir resultatet om svaret er feil eller rett først visst etter at bruker trykker "next". 
+            Resultat vil da vise, og poengsummen øke (om brukeren valgte rett). Etter et paar sekund vil ha neste spørsmål vises
           </p>
           <p>
             Har prøvd å få til en ca <a href="https://www.figma.com/file/wAfk628QcepBXb72LQu2fh/Quiz-Application?type=design&node-id=0%3A1&mode=design&t=KoQn02fTknG43iEB-1">figma skisse</a> om hvordan jeg tenker layouten kan være. 
@@ -165,9 +166,9 @@ Bootstrap icons
   </summary>
 
   <ul>
-    <li>Planlegging (skriva denna her) (ca 2t)</li>
+    <li>Planlegging (skriva denna her) (ca 1t)</li>
     <li>Lage tabellstruktur (ca 2t)</li>
-    <li>Lage skisse (ca 2t)</li>
+    <li>Lage skisse (ca 3t)</li>
     <li>Dokumentere dagens arbeid (ca 0.5t)</li>
   </ul>
 </details>
