@@ -68,8 +68,10 @@
   <summary>
     <h2>06.04</h2>
   </summary>
-
-
+  <p>
+    La til AllowMultipleOptions og IsDefault på QuestionTypes tabellen.<br>
+    Dette så jeg slipper å hardkode inn standard type og maks antall svarmuligheter for de typene 'Text' og 'Date'
+  </p>
 <hr>
 </details>
 <details open>
