@@ -120,7 +120,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
@@ -139,7 +139,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
@@ -158,7 +158,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
@@ -177,7 +177,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
@@ -196,7 +196,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
@@ -215,7 +215,7 @@
             <tr>
               <td>❌</td>
               <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
             </tr>
           </table>
         </details>
