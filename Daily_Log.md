@@ -92,8 +92,10 @@
   <p>
     Oppstått litt problemer med å legge til tabeller i modulen. 
   </p>
-    ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c)
-    ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661)
+
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661">
+
 <hr>
 </details>
 <details open>
