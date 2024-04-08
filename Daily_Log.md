@@ -90,11 +90,37 @@
     <h2>08.04</h2>
   </summary>
   <p>
-    Oppstått litt problemer med å legge til tabeller i modulen. 
+    Oppsto litt problemer med å legge til tabeller i modulen.<br>
+    Visste seg å være kø i objects cache, så funket etter en stund 🙂
   </p>
 
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c">
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661">
+
+  <p>
+    Laget tabellene i tabellskjema.<br>
+    Begynte på trigger security.
+  </p>
+
+  <table>
+    <tr>
+      <th>Tabell</th>
+      <th>Trigger Type</th>
+      <th>Fullført</th>
+    </tr>
+    <tr>
+      <th>atbl_ArvidWedtstein_Quizes</th>
+    </tr>
+    <tr>
+      <th>atbl_ArvidWedtstein_QuizQuestions</th>
+    </tr>
+    <tr>
+      <th>atbl_ArvidWedtstein_QuizesQuestrio</th>
+    </tr>
+    <tr>
+      <th>atbl_ArvidWedtstein_Quizes</th>
+    </tr>
+  </table>
 
 <hr>
 </details>
