@@ -99,26 +99,128 @@
 
   <p>
     Laget tabellene i tabellskjema.<br>
-    Begynte på trigger security.
+    Begynte på trigger security.<br>
+    Checkliste triggers:
   </p>
 
   <table>
     <tr>
       <th>Tabell</th>
-      <th>Trigger Type</th>
-      <th>Fullført</th>
     </tr>
     <tr>
-      <th>atbl_ArvidWedtstein_Quizes</th>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_Quizes</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
     </tr>
     <tr>
       <th>atbl_ArvidWedtstein_QuizQuestions</th>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_Quizes</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
     </tr>
     <tr>
-      <th>atbl_ArvidWedtstein_QuizesQuestrio</th>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_QuizQuestionAnswers</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
     </tr>
     <tr>
-      <th>atbl_ArvidWedtstein_Quizes</th>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_QuizQuestionTypes</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_QuizAttempts</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary>atbl_ArvidWedtstein_QuizAttemptsResponses</summary>
+          <table>
+            <tr>
+              <th>Insert</th>
+              <th>Update</th>
+              <th>Delete</th>
+            </tr>
+            <tr>
+              <td>❌</td>
+              <td>❌</td>
+              <td>❌</td>
+            </tr>
+          </table>
+        </details>
+      </td>
     </tr>
   </table>
 
