@@ -79,7 +79,8 @@
     <h2>07.04</h2>
   </summary>
   <p>
-    La til InputType på QuestionTypes tabellen for å slippe å hardkode det
+    La til InputType på QuestionTypes tabellen.<br>
+    Dette er ment for å kunne supporte andre typer input som feks "star rating" i tillegg til radio, som ikke ville gått, hadde jeg hardkodet dette inn.  
   </p>
 
 <hr>
