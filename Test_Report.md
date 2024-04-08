@@ -24,6 +24,16 @@
       </td>
     </tr>
     <tr>
+      <td>Form validation ved oppretting av ny quiz</td>
+      <td></td>
+      <td></td>
+      <td> 
+        <table>
+          <th><img src="" width="60" /></th>
+        </table>
+      </td>
+    </tr>
+    <tr>
       <td>Kunne redigere quiz som admin</td>
       <td></td>
       <td></td>
