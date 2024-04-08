@@ -127,10 +127,9 @@
       </td>
     </tr>
     <tr>
-      <th>atbl_ArvidWedtstein_QuizQuestions</th>
       <td>
         <details>
-          <summary>atbl_ArvidWedtstein_Quizes</summary>
+          <summary>atbl_ArvidWedtstein_QuizQuestions</summary>
           <table>
             <tr>
               <th>Insert</th>
