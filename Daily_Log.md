@@ -118,8 +118,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
@@ -137,8 +137,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
@@ -156,8 +156,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
@@ -175,8 +175,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
@@ -194,8 +194,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
@@ -213,8 +213,8 @@
               <th>Delete</th>
             </tr>
             <tr>
-              <td>❌</td>
-              <td>❌</td>
+              <td>✅</td>
+              <td>✅</td>
               <td>✅</td>
             </tr>
           </table>
