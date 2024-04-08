@@ -18,37 +18,37 @@
   </summary>
   <ol>
     <li>
-      <a href="#0504">05.04</a>
+      <a href="#0504">Fredag 05.04</a>
     </li>
     <li>
-      <a href="#0604">06.04</a>
+      <a href="#0604">Lørdag 06.04</a>
     </li>
     <li>
-      <a href="#0704">07.04</a>
+      <a href="#0704">Søndag 07.04</a>
     </li>
     <li>
-      <a href="#0804">08.04</a>
+      <a href="#0804">Mandag 08.04</a>
     </li>
     <li>
-      <a href="#0904">09.04</a>
+      <a href="#0904">Tirsdag 09.04</a>
     </li>
     <li>
-      <a href="#1004">10.04</a>
+      <a href="#1004">Onsdag 10.04</a>
     </li>
     <li>
-      <a href="#1104">11.04</a>
+      <a href="#1104">Torsdag 11.04</a>
     </li>
     <li>
-      <a href="#1204">12.04</a>
+      <a href="#1204">Fredag 12.04</a>
     </li>
     <li>
-      <a href="#1304">13.04</a>
+      <a href="#1304">Lørdag 13.04</a>
     </li>
     <li>
-      <a href="#1404">14.04</a>
+      <a href="#1404">Søndag 14.04</a>
     </li>
     <li>
-      <a href="#1504">15.04</a>
+      <a href="#1504">Mandag 15.04</a>
     </li>
   </ol>
 </details>
@@ -89,8 +89,11 @@
   <summary>
     <h2>08.04</h2>
   </summary>
-
-
+  <p>
+    Oppstått litt problemer med å legge til tabeller i modulen. 
+  </p>
+    ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c)
+    ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661)
 <hr>
 </details>
 <details open>
