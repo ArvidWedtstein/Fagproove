@@ -78,7 +78,9 @@
   <summary>
     <h2>07.04</h2>
   </summary>
-
+  <p>
+    La til InputType på QuestionTypes tabellen for å slippe å hardkode det
+  </p>
 
 <hr>
 </details>
