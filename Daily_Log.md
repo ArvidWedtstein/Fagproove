@@ -223,6 +223,11 @@
     </tr>
   </table>
 
+  <p>
+    Møtte på et problem med at jeg glemte helt ut at selve quizzen må vær laget for at foreign key til questions tabellen skal funke.<br>
+    Endte opp med å lage en kolonne "IsTemporary" i quiz tabellen.
+  </p>
+
 <hr>
 </details>
 <details open>
