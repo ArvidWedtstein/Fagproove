@@ -337,9 +337,32 @@
         </table>
       </details>
     </li>
+     <li>
+      <details>
+        <summary>Sjekket at det funker å oppgi felt svar for å så få melding</summary>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Prøvd å oppgi feil svar</th>
+            <td></td>
+            <td>Fikk opp feilmelding og hva rett svar ville vært</td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0df47414-7f45-4db3-952e-65dfc31a3da7" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </details>
+    </li>
     <li>
       <details>
-        <summary>Sjekk at poeng utdeling fungerer</summary>
+        <summary>Sjekk at poeng utdeling fungerer (om svaret er rett)</summary>
         <ul>
           <li>Test1|</li>
         </ul>
