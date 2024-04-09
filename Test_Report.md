@@ -93,11 +93,77 @@
           <li>
             <details>
               <summary>Sjekket at det er mulig å legge til spørsmål</summary>
+              <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
             </details>
           </li>
           <li>
             <details>
-              <summary>Sjekket at det er mulig å legge til svarmuligheter i et spoørsmål</summary>
+              <summary>Sjekket at det er mulig å legge til svarmuligheter i et spørsmål</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+           <li>
+            <details>
+              <summary>Sjekket at det er mulig å endre spørsmålstype etter oppretting av spørsmål</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Sjekk at det ikke lar seg opprette quiz uten at alle påkrevde felt er utfylt</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
             </details>
           </li>
         </ul>
@@ -107,7 +173,44 @@
       <details>
         <summary>Redigere quiz</summary>
         <ul>
-          <li></li>
+          <li>
+             <details>
+              <summary>Sjekket at det er mulig å fjerne spørsmål</summary>
+              <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Sjekket at lagring funker</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
         </ul>
       </details>
     </li>
