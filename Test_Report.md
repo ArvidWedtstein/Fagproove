@@ -268,7 +268,11 @@
                   <th></th>
                   <td></td>
                   <td></td>
-                  <td></td>
+                  <td>
+                    <table>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/6c6d14fb-f7b5-41a4-8781-2a71efb5e7db" width="200" /></th>
+                    </table>
+                  </td>
                 </tr>
               </table>
             </details>
@@ -287,7 +291,12 @@
                   <th></th>
                   <td></td>
                   <td></td>
-                  <td></td>
+                  <td>
+                    <table>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf393b5f-8c48-46e4-b893-84fe309922d0" width="200" /></th>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9cd8e271-7fb4-4df0-bf46-718f338de585" width="200" /></th>
+                    </table>
+                  </td>
                 </tr>
               </table>
             </details>
@@ -364,7 +373,7 @@
       <details>
         <summary>Sjekk at poeng utdeling fungerer (om svaret er rett)</summary>
         <ul>
-          <li>Test1|</li>
+          <li></li>
         </ul>
       </details>
     </li>
