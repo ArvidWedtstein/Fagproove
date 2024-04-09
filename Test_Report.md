@@ -249,7 +249,12 @@
                   <th></th>
                   <td></td>
                   <td></td>
-                  <td></td>
+                  <td>
+                    <table>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/425bfd83-65b2-448a-9913-b5c41544bf09" width="200" /></th>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/6483a1e5-ad30-478f-88b4-56d6a716f819" width="200" /></th>
+                    </table>
+                  </td>
                 </tr>
               </table>
             </details>
@@ -270,7 +275,7 @@
                   <td></td>
                   <td>
                     <table>
-                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/6c6d14fb-f7b5-41a4-8781-2a71efb5e7db" width="200" /></th>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/44140bb5-e980-4f27-bbd0-4c2f1a24378b" width="200" /></th>
                     </table>
                   </td>
                 </tr>
@@ -315,7 +320,12 @@
                   <th></th>
                   <td></td>
                   <td></td>
-                  <td></td>
+                  <td>
+                     <table>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/aa3bff79-15dc-4945-b47c-1c00e2d47c14" width="200" /></th>
+                      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/809ee50e-9d7f-4971-b0b2-6309d4aa74e1" width="200" /></th>
+                    </table>
+                  </td>
                 </tr>
               </table>
             </details>
@@ -374,6 +384,17 @@
         <summary>Sjekk at poeng utdeling fungerer (om svaret er rett)</summary>
         <ul>
           <li></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Sjekk at resetting fungerer</summary>
+        <ul>
+          <li></li>
+          ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/49c1cc1c-2c94-4d5b-b8bb-b5a20238a8e2)
+![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dae15b15-5b16-4280-9ed3-35e947854b03)
+
         </ul>
       </details>
     </li>
