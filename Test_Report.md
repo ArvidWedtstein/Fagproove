@@ -224,3 +224,126 @@
     </li>
   </ol>
 </details>
+
+
+<details open>
+  <summary>
+    <h3>Detail Page</h3>
+  </summary>
+  <ol>
+    <li>
+      <details>
+        <summary>Test de forskjellige svarmulighetene</summary>
+        <ul>
+          <li>
+            <details>
+              <summary>Mulig å svare ved multiselect type</summary>
+              <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Mulig å svare ved radio type</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Mulig å svare ved dato type</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Mulig å svare ved text type</summary>
+               <table>
+                <tr>
+                  <th>Funksjon</th>
+                  <th>Beskrivelse</th>
+                  <th>Resultat</th>
+                  <th>Bilder</th>
+                </tr>
+                <tr>
+                  <th></th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Sjekket at det ikke er mulig å gå til neste spørsmål uten å oppgi svar</summary>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Prøvd å trykke på submit uten å ha oppgitt noe svar</th>
+            <td></td>
+            <td>Fikk opp feilmelding og siden gikk ikke videre.</td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/40f911ed-d858-4e14-a649-c8c04f51ff6b" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Sjekk at poeng utdeling fungerer</summary>
+        <ul>
+          <li>Test1|</li>
+        </ul>
+      </details>
+    </li>
+  </ol>
+</details>
