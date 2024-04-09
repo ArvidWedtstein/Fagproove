@@ -247,6 +247,10 @@
     Vurderer å bruke stored procedure for å opprette ny quiz / redigere siden innebygd dataobject classe ikke har mulighet for å opprette flere "nye" rader uten å lagre.<br>
     Alternativet hadde vært å bare lagre hele tiden. 
   </p>
+  <p>
+    Oppdaget at jeg har bommet minimalt på å finne en løsning for tekst og dato svarmulighet i AttemptsResponses tabellen.<br>
+    La derfor til en ny kolonne der brukerens svar lagres i tilfelle svaret ikke er et av svarmulighetene
+  </p>
 
 <hr>
 </details>
