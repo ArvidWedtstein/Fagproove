@@ -1,83 +1,37 @@
-# Testrapport
+<div align="center">
+  <a href="https://github.com/ArvidWedtstein/Fagproove">
+    <img src="https://content.energage.com/company-images/SE45893/SE45893_logo_orig.png" alt="Logo" width="200" height="200">
+  </a>
 
-### Plan for testing
+  <h3 align="center">Test Report</h3>
 
-  
-<details open>
-  <summary><h3>Front Page</h3></summary>
+  <p align="center">
+    <b>Fagprøve</b>
+    <br />
+    <sub>05.04.24 - 15.04.24</sub>
+  </p>
+</div>
 
-  <table>
-    <tr>
-      <th>Funksjoner</th>
-      <th>Beskrivelse</th>
-      <th>Resultat</th>
-      <th>Bilder</th>
-    </tr>
-    <tr>
-      <td>Kunne opprette quiz som admin</td>
-      <td></td>
-      <td></td>
-      <td> 
-        <table>
-          <th><img src="" width="60" /></th>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td>Form validation ved oppretting av ny quiz</td>
-      <td></td>
-      <td></td>
-      <td> 
-        <table>
-          <th><img src="" width="60" /></th>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td>Kunne redigere quiz som admin</td>
-      <td></td>
-      <td></td>
-      <td> 
-        <table>
-          <th><img src="" width="60" /></th>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td>Kunne slette quiz som admin</td>
-      <td></td>
-      <td></td>
-      <td> 
-        <table>
-          <th><img src="" width="60" /></th>
-        </table>
-      </td>
-    </tr>
-  </table>
+<details>
+  <summary>
+    <b>Table of Contents</b>
+  </summary>
+  <ol>
+    <li>
+      <a href="#plan-for-testing">Plan for testing</a>
+    </li>
+    
+  </ol>
 </details>
 
-  
 <details open>
-  <summary><h3>Insert Title Here</h3></summary>
-
-  <table>
-    <tr>
-      <th>Funksjoner</th>
-      <th>Beskrivelse</th>
-      <th>Resultat</th>
-      <th>Bilder</th>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td> 
-        <table>
-          <th><img src="" width="60" /></th>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <summary>
+    <h2>Plan for testing</h2>
+  </summary>
+  <p>
+    Planen er egentlig bare å gå gjennom hovedfunksjonene og teste alt alt fungerer som det skal. 
+  </p>
+<hr>
 </details>
 
 
