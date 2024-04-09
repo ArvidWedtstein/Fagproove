@@ -268,7 +268,9 @@
   </p>
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a84e9cd1-6e38-4cf1-814c-b73627fe4845" width="200">
 
-
+  <p>
+    Begynt med testing av details siden. Må finne en løsning for å ikke dele ut full poengscore om ikke alle riktige felt er huket av ved multiselect spørsmål
+  </p>
 <hr>
 </details>
 <details open>
