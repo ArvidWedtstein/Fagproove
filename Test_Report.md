@@ -390,12 +390,25 @@
     <li>
       <details>
         <summary>Sjekk at resetting fungerer</summary>
-        <ul>
-          <li></li>
-          ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/49c1cc1c-2c94-4d5b-b8bb-b5a20238a8e2)
-![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dae15b15-5b16-4280-9ed3-35e947854b03)
-
-        </ul>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Trykk på reset (øvre høyre hjørne)</th>
+            <td></td>
+            <td>Fikk oipp advarsel, og data ble slettet om "yes" ble trykket</td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/49c1cc1c-2c94-4d5b-b8bb-b5a20238a8e2" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dae15b15-5b16-4280-9ed3-35e947854b03" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
       </details>
     </li>
   </ol>
