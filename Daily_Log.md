@@ -257,6 +257,12 @@
 
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/21710781-8f4a-4390-9a80-87959a8185fe" width="200">
 
+  <p>
+    Flyttet reset knapp opp i høyre hjørne fordi den ikke passet inn ved siden av Quiz Navnet.<br>
+    Flyttet opp Question i venstre hjørne fordi det så mer ryddig ut og gidde mer plass til melding etter at bruker har sendt inn svar
+  </p>
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/be635ea1-bd7e-42cd-b496-104dfdee0999" width="100">
+
 <hr>
 </details>
 <details open>
