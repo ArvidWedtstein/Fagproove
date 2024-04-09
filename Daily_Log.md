@@ -87,15 +87,15 @@
 </details>
 <details open>
   <summary>
-    <h2>08.04</h2>
+    <sup>Mandag</sup> <h2>08.04</h2>
   </summary>
   <p>
     Oppsto litt problemer med å legge til tabeller i modulen.<br>
     Visste seg å være kø i objects cache, så funket etter en stund 🙂
   </p>
 
-  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c">
-  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/cc5c7e6a-49b9-474b-a72a-734b1288240c" width="200">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf9ce9d3-da17-4bde-9478-6dd068a09661" width="200">
 
   <p>
     Laget tabellene i tabellskjema.<br>
@@ -233,8 +233,8 @@
     Lagt til validering på spørsmålene
   </p>
   
-  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/144792bb-dc5b-4944-8df2-8cf85737c750">
-  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/745eb11a-f9e8-4119-9f7a-9e9076af08f8">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/144792bb-dc5b-4944-8df2-8cf85737c750" width="200">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/745eb11a-f9e8-4119-9f7a-9e9076af08f8" width="200">
 
 <hr>
 </details>
@@ -249,8 +249,13 @@
   </p>
   <p>
     Oppdaget at jeg har bommet minimalt på å finne en løsning for tekst og dato svarmulighet i AttemptsResponses tabellen.<br>
-    La derfor til en ny kolonne der brukerens svar lagres i tilfelle svaret ikke er et av svarmulighetene
+    La derfor til en ny kolonne der brukerens svar lagres i tilfelle svaret ikke er et av svarmulighetene og gjorde SelectedAnswer_ID nullable.
   </p>
+  <p>
+    Laget stored procedure for å kalkulere score, antall feilet og klarte spørsmål
+  </p>
+
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/21710781-8f4a-4390-9a80-87959a8185fe" width="200">
 
 <hr>
 </details>
