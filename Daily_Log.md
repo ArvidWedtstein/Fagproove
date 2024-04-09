@@ -243,7 +243,10 @@
   <summary>
     <h2>09.04</h2>
   </summary>
-
+  <p>
+    Fortsatt på modal for å opprette quiz.<br>
+    Vurderer å bruke stored procedure for å opprette ny quiz / redigere siden innebygd dataobject classe ikke har mulighet for å opprette flere "nye" rader uten å lagre. 
+  </p>
 
 <hr>
 </details>
