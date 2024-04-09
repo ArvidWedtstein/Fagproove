@@ -263,6 +263,12 @@
   </p>
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/be635ea1-bd7e-42cd-b496-104dfdee0999" width="100">
 
+  <p>
+    Lagt til "stats" oversikt når quiz er ferdig.
+  </p>
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a84e9cd1-6e38-4cf1-814c-b73627fe4845" width="200">
+
+
 <hr>
 </details>
 <details open>
