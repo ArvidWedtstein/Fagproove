@@ -382,9 +382,24 @@
     <li>
       <details>
         <summary>Sjekk at poeng utdeling fungerer (om svaret er rett)</summary>
-        <ul>
-          <li></li>
-        </ul>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Gått gjennom alle spørsmålene og svart feil på ett</th>
+            <td></td>
+            <td>Fikk opp rett antall poeng</td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/d0324efd-dc9d-4159-8f66-329cc1b36455" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
       </details>
     </li>
     <li>
