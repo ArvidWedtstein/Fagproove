@@ -79,3 +79,45 @@
     </tr>
   </table>
 </details>
+
+
+<details open>
+  <summary>
+    <h3>Front Page</h3>
+  </summary>
+  <ol>
+    <li>
+      <details>
+        <summary>Opprette ny quiz</summary>
+        <ul>
+          <li>
+            <details>
+              <summary>Sjekket at det er mulig å legge til spørsmål</summary>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>Sjekket at det er mulig å legge til svarmuligheter i et spoørsmål</summary>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Redigere quiz</summary>
+        <ul>
+          <li></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Slette quiz</summary>
+        <ul>
+          <li>Test1|</li>
+        </ul>
+      </details>
+    </li>
+  </ol>
+</details>
