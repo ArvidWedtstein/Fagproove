@@ -270,7 +270,7 @@
 
   <p>
     Begynt med testing av details siden.<br>
-    Funnet en løsning for å dele ut poengscore vis bruker ikke har fått alle rett.<br>
+    Prøvd å få til en løsning for poengkalkulering. Må kunne på ett eller annet lurt for å få kalkulert hvis spørsmålet har flere rette svaralternativer, men brukeren bare velger ett av dem.<br>
   </p>
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9ebe4f25-673d-4f6a-b8a0-b934ce8bf65b" width="200">
 <hr>
