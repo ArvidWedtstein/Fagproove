@@ -244,6 +244,7 @@
   </summary>
   <p>
     Fortsatt på modal for å opprette quiz.<br>
+    Lagt til mulighet for å collapse spørsmål, da jeg etter hvert oppdatet at de tar opp alt for mye plass.<br>
     Vurderer å bruke stored procedure for å opprette ny quiz / redigere siden innebygd dataobject classe ikke har mulighet for å opprette flere "nye" rader uten å lagre. 
   </p>
 
