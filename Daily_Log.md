@@ -53,9 +53,9 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary>
-    <h2>05.04</h2>
+    <sup>Fredag</sup> <h2>05.04</h2>
   </summary>
   <p>
     Fiksa figma skissa, laget tabellstruktur. Vurdert ka som e beste måten å løsa detta på. 
@@ -66,7 +66,7 @@
 </details>
 <details>
   <summary>
-    <h2>06.04</h2>
+    <sup>Lørdag</sup> <h2>06.04</h2>
   </summary>
   <p>
     La til AllowMultipleOptions og IsDefault på QuestionTypes tabellen.<br>
@@ -76,7 +76,7 @@
 </details>
 <details>
   <summary>
-    <h2>07.04</h2>
+    <sup>Søndag</sup> <h2>07.04</h2>
   </summary>
   <p>
     La til InputType på QuestionTypes tabellen.<br>
@@ -278,7 +278,10 @@
 </details>
 <details open>
   <summary>
-    <h2>10.04</h2>
+    <ruby>
+      <h4>10.04</h4>
+      <rt>Onsdag</rt>
+    </ruby>
   </summary>
 
 
@@ -286,7 +289,7 @@
 </details>
 <details open>
   <summary>
-    <h2>11.04</h2>
+    <sup>Torsdag</sup> <h2>11.04</h2>
   </summary>
 
 
@@ -294,7 +297,7 @@
 </details>
 <details open>
   <summary>
-    <h2>12.04</h2>
+    <sup>Fredag</sup> <h2>12.04</h2>
   </summary>
 
 
@@ -302,7 +305,7 @@
 </details>
 <details open>
   <summary>
-    <h2>13.04</h2>
+    <sup>Lørdag</sup> <h2>13.04</h2>
   </summary>
 
 
@@ -310,7 +313,7 @@
 </details>
 <details open>
   <summary>
-    <h2>14.04</h2>
+    <sup>Søndag</sup> <h2>14.04</h2>
   </summary>
 
 
@@ -318,7 +321,7 @@
 </details>
 <details open>
   <summary>
-    <h2>15.04</h2>
+    <sup>Mandag</sup> <h2>15.04</h2>
   </summary>
 
 
