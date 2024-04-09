@@ -64,7 +64,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <h2>06.04</h2>
   </summary>
@@ -74,7 +74,7 @@
   </p>
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <h2>07.04</h2>
   </summary>
@@ -85,7 +85,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Mandag</sup> <h2>08.04</h2>
   </summary>
@@ -240,7 +240,7 @@
 </details>
 <details open>
   <summary>
-    <h2>09.04</h2>
+    <sup>Tirsdag</sup> <h2>09.04</h2>
   </summary>
   <p>
     Fortsatt på modal for å opprette quiz.<br>
@@ -269,8 +269,10 @@
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a84e9cd1-6e38-4cf1-814c-b73627fe4845" width="200">
 
   <p>
-    Begynt med testing av details siden. Må finne en løsning for å ikke dele ut full poengscore om ikke alle riktige felt er huket av ved multiselect spørsmål
+    Begynt med testing av details siden.<br>
+    Funnet en løsning for å dele ut poengscore vis bruker ikke har fått alle rett.
   </p>
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9ebe4f25-673d-4f6a-b8a0-b934ce8bf65b" width="200">
 <hr>
 </details>
 <details open>
