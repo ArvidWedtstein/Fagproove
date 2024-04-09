@@ -232,10 +232,9 @@
     Begynte på details siden.<br>
     Lagt til validering på spørsmålene
   </p>
-  ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/144792bb-dc5b-4944-8df2-8cf85737c750)
-  ![image](https://github.com/ArvidWedtstein/Fagproove/assets/71834553/745eb11a-f9e8-4119-9f7a-9e9076af08f8)
-
-
+  
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/144792bb-dc5b-4944-8df2-8cf85737c750">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/745eb11a-f9e8-4119-9f7a-9e9076af08f8">
 
 <hr>
 </details>
