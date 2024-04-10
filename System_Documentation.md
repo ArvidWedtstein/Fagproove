@@ -250,7 +250,7 @@ Insert diagram of tables here
 
   <ol>
     <li>
-      <a href="#">Insert kilde here</a>
+      <a href="https://stackoverflow.com/questions/49729243/insert-nested-json-array-into-multiple-tables-in-sql-server">Stackoverflow post om hvordan inserting i forskjellige tabeller kan gjøres med nested json data</a>
     </li>
   </ol>
  
