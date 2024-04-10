@@ -43,9 +43,6 @@
       <a href="#sikkerhet">Sikkerhet</a>
     </li>
     <li>
-      <a href="#testing">Testing</a>
-    </li>
-    <li>
       <a href="#grensesnittbeskrivelse">Grensesnittbeskrivelse</a>
     </li>
     <li>
@@ -172,21 +169,12 @@ Insert diagram of tables here
 </details>
 <details open>
   <summary>
-    <h2>Testing</h2>
-  </summary>
-
-Insert some tests here
-<hr />
-</details>
-<details open>
-  <summary>
     <h2>Grensesnittbeskrivelse</h2>
   </summary>
 
 
   <details>
     <summary><h5>Insert title here</h5></summary>
-
     <table>
         <tr>
           <th>Funksjoner</th>
@@ -213,7 +201,7 @@ Insert some tests here
           </td>
         </tr>
       </table>
-    </details>
+  </details>
     
 <hr />
 </details>
@@ -224,7 +212,11 @@ Insert some tests here
 
   <ol>
     <li>
-      <p></p>
+      <p>
+        En av hindringene har vært å kalkulere poeng.<br>
+        I utgangspunktet var planen å gi poeng per spørsmål og så dele opp poengsum på antall mulig rette svaralternativer, vis brukeren ikke hadde svart alle rett.
+        Endte opp med å gi bruker poeng for hvert rette svar for å gjøre utregning enklere
+      </p>
       <table>
         <th><img src="" width="60"></th>
       </table>    
@@ -236,7 +228,7 @@ Insert some tests here
   <summary>
     <h2>Avvik fra plan</h2> (Endringer under utvikling)
   </summary>
-
+  
   <ol>
     <li>
       <p></p>
