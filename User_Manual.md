@@ -20,6 +20,12 @@
     <li>
       <a href="#hvordan-lage-quiz">Hvordan lage ny quiz?</a>
     </li>
+    <li>
+      <a href="#hvordan-redigere-quiz">Hvordan redigere quiz?</a>
+    </li>
+    <li>
+      <a href="#hvordan-spille-quiz">Hvordan spille quiz?</a>
+    </li>
     
   </ol>
 </details>
@@ -80,6 +86,28 @@
        <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71fd4357-6f61-40a8-a03e-d50b14b9a712" width="300"></th>
      </tr>
   </table>
+  <hr>
+</details>
+
+
+<details open>
+  <summary>
+    <h2>Hvordan spille quiz?</h2>
+  </summary>
+  <table>
+    <tr>
+      <td>For å begynne på en quiz trykker du på "Play" på quizen du ønsker å spille.</td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2898add1-a435-4ce7-adba-1ae313823e1f" width="200"></th>
+    </tr>
+    <tr>
+      <td>
+        Du vil da bli sendt til neste side der du kan begynne på quizen.<br>
+        For hvert rette spørsmål vil du få et poeng. Totale poeng vil du se i slutten når du har fullført quizzen.
+      </td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/e396fe90-db2f-4615-8e3b-215fb80a8e99" width="200"></th>
+    </tr>
+  </table>
+   
   <hr>
 </details>
 
