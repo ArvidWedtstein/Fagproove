@@ -285,6 +285,14 @@
     Funnet en løsning for poengkalkulering.<br>
     Løsningen ble å bare gi dobbelt poeng for hvert rette svar istedenfor å dele det opp.
   </p>
+  <p>
+    Prøvd å finne et alternativ for å slippe å lagre data ved hver endring når man redigerer / oppretter ny quiz i stortsett hele dagen.<br>
+    Ikke funnet en løsning på dette enda.
+  </p>
+  <p>
+    <b>Status 16:30</b>:
+    Endelig funnet en smule overkomplisert løsning takket være en tilfeldig stackoverflow bruker
+  </p>
 
 
 <hr>
