@@ -24,12 +24,38 @@
   </ol>
 </details>
 
-<div>
-  <h2>Hvordan lage quiz?</h2>
-  
+<details open>
+  <summary>
+    <h2>Hvordan lage quiz?</h2>
+  </summary>
   <p>
     Ny quiz kan lages (om du har tilgang) gjennom "+" knappen i nedre høyre hjørne.
   </p>
-<hr>
-</div>
+  <table>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1655d195-ccd9-4a80-a246-5ad94ef445f4" width="200"></th>
+  </table>
+  <table>
+    <tr>
+      <td>Nye spørsmål kan så opprettes gjennom menyen</td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2e28d8a9-bbe0-4b25-9ce2-0504e0391631" width="200"></th> 
+    </tr>
+  </table>
+  <hr>
+</details>
+
+
+<details open>
+  <summary>
+    <h2>Hvordan redigere quiz?</h2>
+  </summary>
+  <p>
+    Ny quiz kan lages (om du har tilgang) gjennom "+" knappen i nedre høyre hjørne.
+  </p>
+  <table>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1655d195-ccd9-4a80-a246-5ad94ef445f4" width="200"></th>
+  </table>
+  <hr>
+</details>
+
+
 
