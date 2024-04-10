@@ -53,7 +53,7 @@
           <tr>
             <th>Sjekket at det er mulig å legge til spørsmål</th>
             <td></td>
-            <td></td>
+            <td>✅</td>
             <td>
               <table>
                 <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9332f8cf-1a8b-42f0-95be-e46a20ed98bf" width="200" /></th>
@@ -63,7 +63,7 @@
           <tr>
             <th>Sjekket at det er mulig å legge til svarmuligheter i et spørsmål</th>
             <td></td>
-            <td></td>
+            <td>✅</td>
             <td>
               <table>
                 <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9332f8cf-1a8b-42f0-95be-e46a20ed98bf" width="200" /></th>
@@ -73,7 +73,7 @@
           <tr>
             <th>Sjekket at det er mulig å endre spørsmålstype etter oppretting av spørsmål</th>
             <td></td>
-            <td></td>
+            <td>✅</td>
             <td>
               <table>
                 <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ae81dc14-fb0b-4cb1-a6f1-1aaf766d5e5d" width="200" /></th>
@@ -83,7 +83,7 @@
           <tr>
             <th>Sjekk at det ikke lar seg opprette quiz uten at alle påkrevde felt er utfylt</th>
             <td></td>
-            <td></td>
+            <td>✅</td>
             <td>
               <table>
                 <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/77ac8c59-a7a6-4b10-8cd1-d5b3965ea087" width="200" /></th>
@@ -131,7 +131,7 @@
           <tr>
             <th>Slettet quiz etter at "ok" ble trykket. </th>
             <td></td>
-            <td></td>
+            <td>✅</td>
             <td>
               <table>
                 <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/deaa0b2b-5ce5-4c55-9e5e-f331ff16f5ea" width="200" /></th>
@@ -166,9 +166,9 @@
                   <th>Bilder</th>
                 </tr>
                 <tr>
-                  <th></th>
+                  <th>Testet å oppgi svar med flervalgs svarmulighet</th>
                   <td></td>
-                  <td></td>
+                  <td>✅</td>
                   <td>
                     <table>
                       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/425bfd83-65b2-448a-9913-b5c41544bf09" width="200" /></th>
@@ -190,9 +190,9 @@
                   <th>Bilder</th>
                 </tr>
                 <tr>
-                  <th></th>
+                  <th>Testet å oppgi svar med radio type</th>
                   <td></td>
-                  <td></td>
+                  <td>✅</td>
                   <td>
                     <table>
                       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/44140bb5-e980-4f27-bbd0-4c2f1a24378b" width="200" /></th>
@@ -213,9 +213,9 @@
                   <th>Bilder</th>
                 </tr>
                 <tr>
-                  <th></th>
+                  <th>Testet å oppgi svar med dato</th>
                   <td></td>
-                  <td></td>
+                  <td>✅</td>
                   <td>
                     <table>
                       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bf393b5f-8c48-46e4-b893-84fe309922d0" width="200" /></th>
@@ -237,9 +237,9 @@
                   <th>Bilder</th>
                 </tr>
                 <tr>
-                  <th></th>
+                  <th>Testet å oppgi svar med tekst type</th>
                   <td></td>
-                  <td></td>
+                  <td>✅</td>
                   <td>
                      <table>
                       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/aa3bff79-15dc-4945-b47c-1c00e2d47c14" width="200" /></th>
