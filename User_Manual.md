@@ -49,10 +49,28 @@
     <h2>Hvordan redigere quiz?</h2>
   </summary>
   <p>
-    Ny quiz kan lages (om du har tilgang) gjennom "+" knappen i nedre høyre hjørne.
+    Quiz kan redigeres gjennom "Edit" knapp på hver quiz.
   </p>
   <table>
-    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1655d195-ccd9-4a80-a246-5ad94ef445f4" width="200"></th>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/474d86da-5671-452a-885a-e3581292527d" width="200"></th>
+  </table>
+  <p>
+    Spørsmål og svar kan endres på ved å bruke input feltene
+  </p>
+   <table>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8b190b5c-f1c0-42cf-8cc3-4c7083cd0f79" width="200"></th>
+  </table>
+  <p>
+    For å legge til et nytt svaralternativ så trykkes "Add Option"
+  </p>
+   <table>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ec132daf-06ed-4cf1-85db-52bed1f44f11" width="200"></th>
+  </table>
+  <p>
+    For å velge hvilket svar som et rett markerer du svaralternativet ved å trykke på checkboxen til venstre for svaret
+  </p>
+   <table>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71fd4357-6f61-40a8-a03e-d50b14b9a712" width="200"></th>
   </table>
   <hr>
 </details>
