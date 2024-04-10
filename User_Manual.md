@@ -77,7 +77,7 @@
     <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8b190b5c-f1c0-42cf-8cc3-4c7083cd0f79" width="300"></th>
   </table>
    <table>
-     <td>For å legge til et nytt svaralternativ så trykkes "Add Option"</td>
+     <td>For å legge til et nytt svaralternativ så trykker du på "Add Option"</td>
     <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ec132daf-06ed-4cf1-85db-52bed1f44f11" width="300"></th>
   </table>
   <table>
@@ -110,8 +110,8 @@
       <td>
         Trykk så på "Submit" for å sende inn svaret ditt. Du vil ha få opp resultat om svar er rett eller feil.
       </td>
-      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9d30e28a-b8be-4cda-9f56-bfe17dc7df21" width="200"></th>
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1cfa6feb-f2c1-436a-81f2-8f1dac7eb278" width="200"></th>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9d30e28a-b8be-4cda-9f56-bfe17dc7df21" width="200"></th>
     </tr>
   </table>
    
