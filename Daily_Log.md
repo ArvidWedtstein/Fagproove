@@ -266,7 +266,8 @@
   <p>
     Lagt til "stats" oversikt når quiz er ferdig.
   </p>
-  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/a84e9cd1-6e38-4cf1-814c-b73627fe4845" width="200">
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ccbf2525-8a20-4a7b-a620-d06ac605a0af" width="200">
+
 
   <p>
     Begynt med testing av details siden.<br>
