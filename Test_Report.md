@@ -37,90 +37,61 @@
 
 <details open>
   <summary>
-    <h3>Front Page</h3>
+    <h3>Hovedside</h3>
   </summary>
   <ol>
     <li>
       <details>
         <summary>Opprette ny quiz</summary>
-        <ul>
-          <li>
-            <details>
-              <summary>Sjekket at det er mulig å legge til spørsmål</summary>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Sjekket at det er mulig å legge til spørsmål</th>
+            <td></td>
+            <td></td>
+            <td>
               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9332f8cf-1a8b-42f0-95be-e46a20ed98bf" width="200" /></th>
               </table>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>Sjekket at det er mulig å legge til svarmuligheter i et spørsmål</summary>
-               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
+            </td>
+          </tr>
+          <tr>
+            <th>Sjekket at det er mulig å legge til svarmuligheter i et spørsmål</th>
+            <td></td>
+            <td></td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9332f8cf-1a8b-42f0-95be-e46a20ed98bf" width="200" /></th>
               </table>
-            </details>
-          </li>
-           <li>
-            <details>
-              <summary>Sjekket at det er mulig å endre spørsmålstype etter oppretting av spørsmål</summary>
-               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
+            </td>
+          </tr>
+          <tr>
+            <th>Sjekket at det er mulig å endre spørsmålstype etter oppretting av spørsmål</th>
+            <td></td>
+            <td></td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ae81dc14-fb0b-4cb1-a6f1-1aaf766d5e5d" width="200" /></th>
               </table>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>Sjekk at det ikke lar seg opprette quiz uten at alle påkrevde felt er utfylt</summary>
-               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
+            </td>
+          </tr>
+          <tr>
+            <th>Sjekk at det ikke lar seg opprette quiz uten at alle påkrevde felt er utfylt</th>
+            <td></td>
+            <td></td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/77ac8c59-a7a6-4b10-8cd1-d5b3965ea087" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ae1b9f72-a1d4-4b2e-b0a1-7420768f1a4b" width="200" /></th>
               </table>
-            </details>
-          </li>
-        </ul>
+            </td>
+          </tr>
+        </table>
       </details>
     </li>
     <li>
