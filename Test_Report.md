@@ -97,54 +97,49 @@
     <li>
       <details>
         <summary>Redigere quiz</summary>
-        <ul>
-          <li>
-             <details>
-              <summary>Sjekket at det er mulig å fjerne spørsmål</summary>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Prøvde å endre på et svaralternativ og så lagre.</th>
+            <td></td>
+            <td></td>
+            <td>
               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9074c339-53a1-4d94-885f-c57a6757d3b4" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/b353614e-5729-4548-9294-f8b92afc1c99" width="200" /></th>
               </table>
-            </details>
-          </li>
-          <li>
-            <details>
-              <summary>Sjekket at lagring funker</summary>
-               <table>
-                <tr>
-                  <th>Funksjon</th>
-                  <th>Beskrivelse</th>
-                  <th>Resultat</th>
-                  <th>Bilder</th>
-                </tr>
-                <tr>
-                  <th></th>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
-              </table>
-            </details>
-          </li>
-        </ul>
+            </td>
+          </tr>
+        </table>
       </details>
     </li>
     <li>
       <details>
         <summary>Slette quiz</summary>
-        <ul>
-          <li>Test1|</li>
-        </ul>
+         <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Slettet quiz etter at "ok" ble trykket. </th>
+            <td></td>
+            <td></td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/deaa0b2b-5ce5-4c55-9e5e-f331ff16f5ea" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/aabd3c9d-bc19-472a-b06b-2c36e82f0996" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
       </details>
     </li>
   </ol>
