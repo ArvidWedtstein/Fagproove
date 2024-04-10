@@ -40,6 +40,20 @@
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2e28d8a9-bbe0-4b25-9ce2-0504e0391631" width="200"></th> 
     </tr>
   </table>
+   <table>
+     <td>Spørsmål og svar kan endres på ved å bruke input feltene</td>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8b190b5c-f1c0-42cf-8cc3-4c7083cd0f79" width="300"></th>
+  </table>
+   <table>
+     <td>For å legge til et nytt svaralternativ så trykkes "Add Option"</td>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ec132daf-06ed-4cf1-85db-52bed1f44f11" width="300"></th>
+  </table>
+  <table>
+     <tr>
+       <td>For å velge hvilket svar som et rett markerer du svaralternativet ved å trykke på checkboxen til venstre for svaret</td>
+       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71fd4357-6f61-40a8-a03e-d50b14b9a712" width="300"></th>
+     </tr>
+  </table>
   <hr>
 </details>
 
@@ -48,29 +62,23 @@
   <summary>
     <h2>Hvordan redigere quiz?</h2>
   </summary>
-  <p>
-    Quiz kan redigeres gjennom "Edit" knapp på hver quiz.
-  </p>
   <table>
+    <td>Quiz kan redigeres gjennom "Edit" knapp på hver quiz.</td>
     <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/474d86da-5671-452a-885a-e3581292527d" width="200"></th>
   </table>
-  <p>
-    Spørsmål og svar kan endres på ved å bruke input feltene
-  </p>
    <table>
-    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8b190b5c-f1c0-42cf-8cc3-4c7083cd0f79" width="200"></th>
+     <td>Spørsmål og svar kan endres på ved å bruke input feltene</td>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8b190b5c-f1c0-42cf-8cc3-4c7083cd0f79" width="300"></th>
   </table>
-  <p>
-    For å legge til et nytt svaralternativ så trykkes "Add Option"
-  </p>
    <table>
-    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ec132daf-06ed-4cf1-85db-52bed1f44f11" width="200"></th>
+     <td>For å legge til et nytt svaralternativ så trykkes "Add Option"</td>
+    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ec132daf-06ed-4cf1-85db-52bed1f44f11" width="300"></th>
   </table>
-  <p>
-    For å velge hvilket svar som et rett markerer du svaralternativet ved å trykke på checkboxen til venstre for svaret
-  </p>
-   <table>
-    <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71fd4357-6f61-40a8-a03e-d50b14b9a712" width="200"></th>
+  <table>
+     <tr>
+       <td>For å velge hvilket svar som et rett markerer du svaralternativet ved å trykke på checkboxen til venstre for svaret</td>
+       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71fd4357-6f61-40a8-a03e-d50b14b9a712" width="300"></th>
+     </tr>
   </table>
   <hr>
 </details>
