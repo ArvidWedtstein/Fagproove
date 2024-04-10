@@ -287,7 +287,7 @@
   </p>
   <p>
     Laget stored procedure for å lage ny quiz istedenfor å lagre hele tiden. Kan dermed fjerne IsTemporary kolonnen i quiz tabellen.<br>
-    Dermed blir koden en god del ryddigere også 🙂
+    Dermed blir koden en god del ryddigere også og det er mulig å kansellere mens du oppretter quiz eler redigerer.
   </p>
 
 <hr>
