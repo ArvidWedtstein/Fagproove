@@ -156,8 +156,14 @@ Insert diagram of tables here
   <summary>
     <h2>Sikkerhet</h2>
   </summary>
-    
- Insert security stuff here
+  <p>
+    Sikkerhet i Omega 365 rammeverket er slik at det lages en atbv for hver tabell.<br>
+    Denne atbv'en inneholder en whereclause som sjekker opp tabellnavnet mot dine tabeller (disse tabellene fås gjennom rolletilganger, modultilganger, capabilities)<br>
+    Så lages det ofte en aviw som henter data gjennom atbv'en for å ikke miste sikkerhetssjekken.<br>
+    Stored procedures trenger egen tilgangssjekk siden de som regel unngår disse tilgangsjekkene, med mindre du spesifiseres dem i triggerene.
+    <br><br>
+    I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene
+  </p>
 
    <table>
     <th>
