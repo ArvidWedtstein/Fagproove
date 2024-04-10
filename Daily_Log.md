@@ -16,7 +16,7 @@
   <summary>
     <b>Table of Contents</b>
   </summary>
-  <ol>
+  <ul>
     <li>
       <a href="#0504">Fredag 05.04</a>
     </li>
@@ -33,7 +33,7 @@
       <a href="#0904">Tirsdag 09.04</a>
     </li>
     <li>
-      <a href="#1004">Onsdag 10.04</a>
+      <a href="#1004" name="1004">Onsdag 10.04</a>
     </li>
     <li>
       <a href="#1104">Torsdag 11.04</a>
@@ -50,7 +50,7 @@
     <li>
       <a href="#1504">Mandag 15.04</a>
     </li>
-  </ol>
+  </ul>
 </details>
 
 <details>
@@ -238,7 +238,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Tirsdag</sup> <h2>09.04</h2>
   </summary>
@@ -276,12 +276,10 @@
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9ebe4f25-673d-4f6a-b8a0-b934ce8bf65b" width="200">
 <hr>
 </details>
+
 <details open>
   <summary>
-    <ruby>
-      <h4>10.04</h4>
-      <rt>Onsdag</rt>
-    </ruby>
+    <sup>Onsdag</sup> <h2>10.04</h2> 
   </summary>
   <p>
     Funnet en løsning for poengkalkulering.<br>
