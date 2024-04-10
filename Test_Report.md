@@ -349,7 +349,7 @@
             <td>Fikk opp rett antall poeng</td>
             <td>
               <table>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/d0324efd-dc9d-4159-8f66-329cc1b36455" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ccbf2525-8a20-4a7b-a620-d06ac605a0af" width="200" /></th>
               </table>
             </td>
           </tr>
