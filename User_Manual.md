@@ -106,6 +106,13 @@
       </td>
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/e396fe90-db2f-4615-8e3b-215fb80a8e99" width="200"></th>
     </tr>
+    <tr>
+      <td>
+        Trykk så på "Submit" for å sende inn svaret ditt. Du vil ha få opp resultat om svar er rett eller feil.
+      </td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9d30e28a-b8be-4cda-9f56-bfe17dc7df21" width="200"></th>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1cfa6feb-f2c1-436a-81f2-8f1dac7eb278" width="200"></th>
+    </tr>
   </table>
    
   <hr>
