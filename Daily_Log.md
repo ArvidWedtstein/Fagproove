@@ -277,7 +277,7 @@
 <hr>
 </details>
 
-<details open>
+<details>
   <summary>
     <sup>Onsdag</sup> <h2>10.04</h2> 
   </summary>
@@ -305,7 +305,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Fredag</sup> <h2>12.04</h2>
   </summary>
@@ -313,7 +313,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Lørdag</sup> <h2>13.04</h2>
   </summary>
@@ -321,7 +321,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Søndag</sup> <h2>14.04</h2>
   </summary>
@@ -329,7 +329,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Mandag</sup> <h2>15.04</h2>
   </summary>
