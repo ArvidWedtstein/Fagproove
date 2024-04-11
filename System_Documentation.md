@@ -247,6 +247,9 @@
     <li>
       <a href="https://chat.openai.com">ChatGPT</a>
     </li>
+    <li>
+      <a href="roger.torkelsen@omega365.com">Roger (SQL Expert)</a>
+    </li>
   </ol>
  
 <hr />
