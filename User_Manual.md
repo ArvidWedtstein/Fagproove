@@ -12,6 +12,13 @@
   </p>
 </div>
 
+<table align="center">
+  <tr>
+    <td><a href="User_Manual_EN.md">English</a></td>
+    <td><b><code><a href="User_Manual_NO.md">Norwegian</a></code></b></td>
+  </tr>
+</table>
+
 <details>
   <summary>
     <b>Table of Contents</b>
@@ -28,6 +35,7 @@
     </li>
   </ol>
 </details>
+
 
 <details open>
   <summary>
