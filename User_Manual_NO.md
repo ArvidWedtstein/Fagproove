@@ -140,7 +140,7 @@
       <td>
         <p>
           For å se tidligere forsøk trykker du på en av knappene, avhengig av hvilken quiz du vil se forsøkene dine på.<br>
-          Du vil kun kunne se dine egne forsøk.
+          Du vil da få opp en modal med dine (desperate?) forsøk for den quizzen.
         </p>
       </td>
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/402d59ea-6490-4f11-bd91-f425bb79ea36" width="200"></th>
