@@ -26,7 +26,6 @@
     <li>
       <a href="#hvordan-spille-quiz">Hvordan spille quiz?</a>
     </li>
-    
   </ol>
 </details>
 
@@ -113,10 +112,13 @@
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1cfa6feb-f2c1-436a-81f2-8f1dac7eb278" width="200"></th>
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9d30e28a-b8be-4cda-9f56-bfe17dc7df21" width="200"></th>
     </tr>
+    <tr>
+      <td>
+        Når du er ferdig med quizzen vil du få opp oversikt over litt data, som tid brukt, poeng og spørsmål svart
+      </td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ccbf2525-8a20-4a7b-a620-d06ac605a0af" width="200"></th>
+    </tr>
   </table>
    
   <hr>
 </details>
-
-
-
