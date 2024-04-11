@@ -264,11 +264,12 @@
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/be635ea1-bd7e-42cd-b496-104dfdee0999" width="100">
 
   <p>
-    Lagt til "stats" oversikt når quiz er ferdig.
+    Lagt til "stats" oversikt når quiz er ferdig.<br>
+    Lagt til mulighet for å se tidligere forsøk.
   </p>
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ccbf2525-8a20-4a7b-a620-d06ac605a0af" width="200">
-
-
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/058f7754-54f7-49a8-aeaa-23afe14d3821" width="200">
+  
   <p>
     Begynt med testing av details siden.<br>
     Prøvd å få til en løsning for poengkalkulering. Må kunne på ett eller annet lurt for å få kalkulert hvis spørsmålet har flere rette svaralternativer, men brukeren bare velger ett av dem.<br>
