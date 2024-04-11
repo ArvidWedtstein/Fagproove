@@ -132,3 +132,22 @@
    
   <hr>
 </details>
+
+<details open>
+  <summary>
+    <h2>How to view previous attempts?</h2>
+  </summary>
+  <table>
+    <tr>
+      <td>
+        <p>
+          To view previous attempts, you click on one of the buttons (marked with a beautiful handdrawn circle).<br>
+          You will when get a modal displaying your (desperate?) attempts on that quiz.
+        </p>
+      </td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/402d59ea-6490-4f11-bd91-f425bb79ea36" width="200"></th>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/c320ca59-c926-475a-85f1-eaa1774408b0" width="200"></th>
+    </tr>
+  </table>
+  <hr>
+</details>
