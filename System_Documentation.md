@@ -112,9 +112,6 @@
         <a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">Tabellstruktur</a>
       </details>
     </li>
-   <li>
-     
-   </li>
   </ul>
   <hr />
 </details>
@@ -131,7 +128,7 @@
     Om innlogging stemmer overens, så returnerer accesslayer en token, som indikerer at du er du.
   </p>
   <p>
-    Sikkerhet i Omega 365 rammeverket er slik at det lages en atbv for hver tabell.<br>
+    Sikkerhet i Appframe rammeverket er slik at det lages en atbv for hver tabell.<br>
     Denne atbv'en inneholder en whereclause som sjekker opp tabellnavnet mot dine tabeller (disse tabellene fås gjennom rolletilganger, modultilganger, capabilities)<br>
     Så lages det ofte en aviw som henter data gjennom atbv'en for å ikke miste sikkerhetssjekken.<br>
     Stored procedures trenger egen tilgangssjekk siden de som regel unngår disse tilgangsjekkene, med mindre du spesifiseres dem i triggerene.
@@ -148,9 +145,11 @@
     For en veldig simpel beskrivelse se: <a href="User_Manual_NO.md">Brukerveiledning</a>
   </p>
   <br>
-  <p>
-    ss
-  </p>
+   <p>
+     Quizzen er delt opp i 2 apper, en for oversikt over alle quizzene, og en for å svare på spørsmål i en valgt quiz.<br>
+     Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene
+     Er mulighet for å se tidligere forsøk på en quiz gjennom
+   </p>
   <hr />
 </details>
 
