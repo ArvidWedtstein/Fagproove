@@ -127,6 +127,26 @@
       <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ccbf2525-8a20-4a7b-a620-d06ac605a0af" width="200"></th>
     </tr>
   </table>
-   
+  <hr>
+</details>
+
+
+<details open>
+  <summary>
+    <h2>Hvordan se tidligere forsøk?</h2>
+  </summary>
+  <table>
+    <tr>
+      <td>
+        <p>
+          For å se tidligere forsøk trykker du på en av knappene, avhengig av hvilken quiz du vil se forsøkene dine på.<br>
+          Du vil kun kunne se dine egne forsøk.
+        </p>
+      </td>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/402d59ea-6490-4f11-bd91-f425bb79ea36" width="200"></th>
+      <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/c320ca59-c926-475a-85f1-eaa1774408b0" width="200"></th>
+    </tr>
+  
+  </table>
   <hr>
 </details>
