@@ -131,14 +131,7 @@
     <br><br>
     I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene
   </p>
-
-   <table>
-    <th>
-      <img src="" width="60" />
-    </th>
-  </table>
-  
-<hr />
+  <hr />
 </details>
 <details open>
   <summary>
@@ -147,8 +140,13 @@
   <p>
     For en veldig simpel beskrivelse se: <a href="User_Manual_NO.md">Brukerveiledning</a>
   </p>
-<hr />
+  <br>
+  <p>
+    ss
+  </p>
+  <hr />
 </details>
+
 <details open>
   <summary>
     <h2>Hindringer under utviklingen</h2>
@@ -202,6 +200,7 @@
   </ol>
 <hr />
 </details>
+
 <details open>
   <summary>
     <h2>Avvik fra plan</h2> (Endringer under utvikling)
@@ -209,12 +208,21 @@
   
   <ol>
     <li>
-      <p></p>
+      <p>
+        Hadde neon "minimale" endringer i tabellstrukturen for å slippe hardkodinger her og der.<br>
+        La blant annet til InputType kolonne i questiontypes tabellen for å støtte flere typer i fremtiden.
+      </p>
+    </li>
+    <li>
+      <p>
+        Endret litt på layout i selve siden for quiz for å få en bedre oversikt over hvilket spørsmål brukeren er på.<br>
+        Reset knappen ble blant annet flyttet til høyre og hvilket spørsmål brukeren er på opp.
+      </p>
     </li>
   </ol>
- 
-<hr />
+  <hr />
 </details>
+
 <details open>
   <summary>
     <h2>Kilder</h2>
@@ -223,6 +231,21 @@
   <ol>
     <li>
       <a href="https://stackoverflow.com/questions/49729243/insert-nested-json-array-into-multiple-tables-in-sql-server">Stackoverflow post om hvordan inserting i forskjellige tabeller kan gjøres med nested json data</a>
+    </li>
+    <li>
+      <a href="https://vuejs.org/">Vue Docs</a>
+    </li>
+    <li>
+      <a href="https://getbootstrap.com/docs/5.3">Bootstrap Docs</a>
+    </li>
+    <li>
+      Omega 365 Docs (Har dessverre ikke link til denne. Ligger litt spredt rundt i diverse apper)
+    </li>
+    <li>
+      <a href="https://github.com/TorAasheimOmega">Tor (for teknisk støtte)</a>
+    </li>
+    <li>
+      <a href="https://chat.openai.com">ChatGPT</a>
     </li>
   </ol>
  
