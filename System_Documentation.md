@@ -18,7 +18,7 @@
   </summary>
   <ol>
     <li>
-      <a href="#info">Info</a>
+      <a href="#oppgave">Oppgave</a>
     </li>
     <li>
       <a href="#teknologier">Teknologier</a>
@@ -33,9 +33,6 @@
               <a href="#sikkerhet-i-tabeller">Sikkerhet i Tabeller</a>
             </li>
           </ul>
-        </li>
-        <li>
-          <a href="#views">Views</a>
         </li>
       </ul>
     </li>
@@ -59,7 +56,7 @@
 
 <details open>
   <summary>
-    <h2>Info</h2>
+    <h2>Oppgave</h2>
   </summary>
   <p>
     Utvikle en enkel quiz-app hvor brukere kan svare på spørsmål med flere valgmuligheter, se sin poengsum ved slutten, og prøve igjen. Spørsmål og metadata ligger på en server, med et dokumentert integrasjonslag mellom klient og server. 
@@ -109,12 +106,15 @@
  <ul>
     <li>
       <details>
-          <summary>
-            <h4>Tabeller</h4>:
-          </summary>      
-          <a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">Tabellstruktur</a>
+        <summary>
+          <h4>Tabeller</h4>:
+        </summary>      
+        <a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">Tabellstruktur</a>
       </details>
     </li>
+   <li>
+     
+   </li>
   </ul>
   <hr />
 </details>
@@ -144,55 +144,60 @@
   <summary>
     <h2>Grensesnittbeskrivelse</h2>
   </summary>
-
-
-  <details>
-    <summary><h5>Insert title here</h5></summary>
-    <table>
-        <tr>
-          <th>Funksjoner</th>
-          <th colspan="3">Beskrivelse</th>
-          <th>Kode</th>
-          <th>Bilder</th>
-        </tr>
-      <tr>
-          <td>Insert function here</td>
-          <td colspan="3"></td>
-          <td>
-            <table>
-              <th>
-                <img src="" width="60" />
-              </th>
-            </table>
-          </td>
-          <td> 
-            <table>
-              <th>
-                <img src="" width="60" />
-              </th>
-            </table>
-          </td>
-        </tr>
-      </table>
-  </details>
-    
+  <p>
+    For en veldig simpel beskrivelse se: <a href="User_Manual_NO.md">Brukerveiledning</a>
+  </p>
 <hr />
 </details>
 <details open>
   <summary>
     <h2>Hindringer under utviklingen</h2>
   </summary>
-
   <ol>
     <li>
       <p>
-        En av hindringene har vært å kalkulere poeng.<br>
+        En av hindringene har vært å finne ut beste måte kalkulere poeng.<br>
         I utgangspunktet var planen å gi poeng per spørsmål og så dele opp poengsum på antall mulig rette svaralternativer, vis brukeren ikke hadde svart alle rett.
         Endte opp med å gi bruker poeng for hvert rette svar for å gjøre utregning enklere
+      </p>   
+    </li>
+    <li>
+      <p>
+        Har brukt en del tid på å finne beste måte for å opprette en quiz på.<br>
+        Problemer var at måten Omega 365 rammeverket er satt opp så opprettes det en "master-child binding" mellom to tabeller.<br>
+        Så når du lager en ny rad i quiz tabellen og så prøver å legge til spørsmål,<br>
+        så har spørsmålstabellen ingen ID å referere til i quiz tabellen siden quiz raden ikke er lagret til databasen enda.
+        Samme problem eksisterte også for svaralternativer til spørsmålene.
       </p>
-      <table>
-        <th><img src="" width="60"></th>
-      </table>    
+      <p>Mulighetene jeg kom frem til her var:</p>
+      <ul>
+        <li>
+          Lage en modal og lagre til databasen hver gang et nytt spørsmål eller svaralternativ legges til eller endres på.<br>
+          Ulempen med dette er at brukeren da mister mulighet for å kansellere endringer og trigger sjekker ble vanskeligere å få til.
+        </li>
+        <li>
+          Lage en modal for hver tabell.<br>
+          Dette blir så å si det samme som løsning nr 1, at du lagrer hver gang.
+        </li>
+        <li>
+          <p>
+            Lage en variabel for innholdet i en quiz, og så bruke en sql stored procedure som da inserter rader som vanlig vis quiz opprettes. <br>
+            Om en quiz redigeres, så slettes da alle gamle radene for så å opprette nye rader med de aktuelle endringene.
+          </p>
+        </li>
+      </ul>
+      <p>
+        Endte opp med å gå for løsning nr 3. da jeg foretrakk å kunne kansellere endringer.
+      </p>
+      <p>
+        En av sideeffektene denne løsningen har er at brukerens forsøk på quizzen er referert til spørsmål i quizzen.<br>
+        Så når spørsmålene blir slettet for å opprettes igjen så skaper dette foreign key conflict.
+      </p>
+      <p>
+        Løsningen på dette ble å rett og slett låse spørsmålet for redigering vis brukere har kjørt quizzen og fullført det spørsmålet.<br>
+        Ved å låse spørsmålet så unngikk jeg dermed også mulighet for å jukse på quizresultater ved at man endrer spørsmålene eller poengsum i etterkant.
+      </p>
+      <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/f323d9b3-ab67-42d4-908c-c536cee0d24f" width="200">
     </li>
   </ol>
 <hr />
