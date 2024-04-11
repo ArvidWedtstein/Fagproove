@@ -124,6 +124,13 @@
     <h2>Sikkerhet</h2>
   </summary>
   <p>
+    Når bruker åpner en Appframe nettside, så blir bruker først redirected til login side.<br>
+    Der kan bruker velge mellom å logge inn med microsoft bruker eller SQL login.
+    Velger bruker microsoft, blir dette kjørt internt hos microsoft og det returneres en token.<br>
+    Ved SQL innlogging så sjekkes brukernavn og passord opp mot en bruker i databasen gjennom API kall.<br>
+    Om innlogging stemmer overens, så returnerer accesslayer en token, som indikerer at du er du.
+  </p>
+  <p>
     Sikkerhet i Omega 365 rammeverket er slik at det lages en atbv for hver tabell.<br>
     Denne atbv'en inneholder en whereclause som sjekker opp tabellnavnet mot dine tabeller (disse tabellene fås gjennom rolletilganger, modultilganger, capabilities)<br>
     Så lages det ofte en aviw som henter data gjennom atbv'en for å ikke miste sikkerhetssjekken.<br>
