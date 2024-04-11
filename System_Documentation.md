@@ -61,97 +61,64 @@
   <summary>
     <h2>Info</h2>
   </summary>
-    
-  Fagprøve oppgave.
-  
- Insert oppgava her
-
-
-
-<hr>
+  <p>
+    Utvikle en enkel quiz-app hvor brukere kan svare på spørsmål med flere valgmuligheter, se sin poengsum ved slutten, og prøve igjen. Spørsmål og metadata ligger på en server, med et dokumentert integrasjonslag mellom klient og server. 
+  </p>  
+  <hr>
 </details>
 <details open>
   <summary>
     <h2>Teknologier</h2>
   </summary>
-    
-Insert stuff here
-<hr>
+   <ol>
+    <li>
+      <p>Omega 365 (NT) rammeverket</p>
+      Fordi det har innebygd sikkerhet, enkelt å komme igang med, er en av bedriftens standard rammeverk og fordi jeg har fått utrolig mye kjennskap til det. I tillegg så har rammeverket en god del komponenter som gjør ting lettere i forhold til å lage dem selv. 
+       <ul>
+        <li>
+          Vue.js
+        </li>
+        <li>
+         Bootstrap
+        </li>
+        <li>
+          Transact SQL
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>Github</p>
+      Fordi det va enklast å laga dokumentasjon i og lett å invitera andre.
+    </li>
+    <li>
+      <p>DrawSQL</p>
+      Fordi den var perfekt for å lage sql tabell diagram. Vi har i teorien en intern løsning for dette, men har av en eller annen grunn ikke fått tilgang til denne.
+    </li>
+    <li>
+      <p>Figma</p>
+      Paint va ikkje et alternativ, så då blei det figma og fordi det er ganske enkelt å bruke figma.
+    </li>
+  </ol>
+  <hr>
 </details>
 
 <details open>
   <summary>
     <h2>Arkitektur</h2>
   </summary>
-  
  <ul>
     <li>
       <details>
           <summary>
             <h4>Tabeller</h4>:
-          </summary>
-        
-Insert diagram of tables here
-  <!-- [Tabellstruktur](https://drawsql.app/teams/arvid/diagrams/tabellstruktur) -->
-        
-   <details>
-      <summary>
-        <h4>Sikkerhet i Tabeller</h4>:
-      </summary>
-
-  <table>
-        <tr>
-          <th>Tabell Navn</th>
-          <th>Beskrivelse</th>
-          <th>Regler Insert</th>
-          <th>Regler Update</th>
-          <th>Regler Delete</th>
-          <th>Bilder</th>
-        </tr>
-        <tr>
-          <td><b>Insert table name here</b></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>
-            <table>
-              <th>
-                <img src="" width="60" />
-              </th>
-            </table>
-          </td>
-        </tr>
-      </table>
-  </details>
-      </details>
-    </li>
-    <li>
-      <details>
-          <summary>
-            <h4>Views</h4> (TSQL):
-          </summary>
-        
-  <table>
-  <tr>
-    <th>View Navn</th>
-    <th>Beskrivelse</th>
-    <th>Kode</th>
-  </tr>
-  <tr>
-    <td>Insert view name here</td>
-    <td></td>
-    <td>
-     <img src="" width="60" />
-    </td>
-  </tr>
-</table>
+          </summary>      
+          <a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">Tabellstruktur</a>
       </details>
     </li>
   </ul>
-  
   <hr />
 </details>
+
 <details open>
   <summary>
     <h2>Sikkerhet</h2>
