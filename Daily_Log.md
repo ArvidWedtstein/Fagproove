@@ -301,8 +301,9 @@
   <summary>
     <sup>Torsdag</sup> <h2>11.04</h2>
   </summary>
-
-
+  <p>
+    Etter litt frem og tilbake med Roger så kom vi frem til at løsningen min fra igår ikke var den beste alikevel. 
+  </p>
 <hr>
 </details>
 <details>
