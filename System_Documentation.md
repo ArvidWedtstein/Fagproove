@@ -147,7 +147,7 @@
   <br>
    <p>
      Quizzen er delt opp i 2 apper, en for oversikt over alle quizzene, og en for å svare på spørsmål i en valgt quiz.<br>
-     Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene
+     Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene.<br>
      Er mulighet for å se tidligere forsøk på en quiz gjennom
    </p>
   <hr />
