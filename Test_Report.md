@@ -52,11 +52,11 @@
           </tr>
           <tr>
             <th>Sjekket at det er mulig å legge til spørsmål</th>
-            <td></td>
+            <td>Trykket på "Add new question" knappen for å opprette nytt spørsmål</td>
             <td>✅</td>
             <td>
               <table>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/9332f8cf-1a8b-42f0-95be-e46a20ed98bf" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/1efc47aa-7b7e-4e6a-87eb-647f3dd324b3" width="200" /></th>
               </table>
             </td>
           </tr>
