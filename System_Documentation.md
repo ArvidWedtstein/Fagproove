@@ -68,10 +68,14 @@
       Fordi det har innebygd sikkerhet, enkelt å komme igang med, er en av bedriftens standard rammeverk og fordi jeg har fått utrolig mye kjennskap til det. I tillegg så har rammeverket en god del komponenter som gjør ting lettere i forhold til å lage dem selv. 
        <ul>
         <li>
-          Vue.js
+          <a href="https://vuejs.org" title="Vue.js">
+           <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"> 
+          </a>
         </li>
-        <li>
-         Bootstrap
+        <li> 
+          <a href="https://getbootstrap.com/docs/5.3" title="Bootstrap">
+           <img src="https://img.shields.io/badge/Bootstrap-dddddd?style=for-the-badge&logo=bootstrap&logoColor=572b8a" alt="bootstrap"> 
+          </a>
         </li>
         <li>
           Transact SQL
@@ -398,7 +402,7 @@
       <a href="https://github.com/TorAasheimOmega">Tor (for teknisk støtte)</a>
     </li>
     <li>
-      <a href="https://chat.openai.com">ChatGPT</a>
+      <a href="https://chat.openai.com">ChatGPT (Fekk an te å forklara kossen eg brukte SQL MERGE, men fekk ikke bruk for MERGE til slutt alikevel)</a>
     </li>
     <li>
       <a href="mailto:roger.torkelsen@omega365.com">Roger (SQL Expert)</a>
@@ -407,3 +411,7 @@
  
 <hr />
 </details>
+
+<!-- Urls -->
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
