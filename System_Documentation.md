@@ -78,12 +78,16 @@
           </a>
         </li>
         <li>
-          Transact SQL
+          <a href="https://getbootstrap.com/docs/5.3" title="Transact SQL">
+           <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="Transact SQL"> 
+          </a>
         </li>
       </ul>
     </li>
     <li>
-      <p>Github</p>
+      <a href="https://github.com/ArvidWedtstein/Fagproove" title="Github">
+       <img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=fff&style=for-the-badge" alt="Github"> 
+      </a>
       Fordi det va enklast å laga dokumentasjon i og lett å invitera andre.
     </li>
     <li>
@@ -91,7 +95,9 @@
       Fordi den var perfekt for å lage sql tabell diagram. Vi har i teorien en intern løsning for dette, men har av en eller annen grunn ikke fått tilgang til denne.
     </li>
     <li>
-      <p>Figma</p>
+      <a href="https://github.com/ArvidWedtstein/Fagproove" title="Figma">
+       <img src="https://img.shields.io/badge/figma?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma"> 
+      </a>
       Paint va ikkje et alternativ, så då blei det figma og fordi det er ganske enkelt å bruke figma.
     </li>
   </ol>
