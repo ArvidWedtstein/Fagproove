@@ -292,7 +292,7 @@
   </p>
   <p>
     <b>Status 16:30</b>:
-    Endelig funnet en smule overkomplisert løsning takket være en tilfeldig stackoverflow bruker
+    Endelig funnet en smule overkomplisert løsning takket være en tilfeldig stackoverflow bruker.
   </p>
 
 
@@ -302,6 +302,9 @@
   <summary>
     <sup>Torsdag</sup> <h2>11.04</h2>
   </summary>
+  <p>
+    Fortsatt på systemdokumentasjon og finpusset bruksanvisning
+  </p>
   <p>
     Etter litt frem og tilbake med Roger så kom vi frem til at løsningen min fra igår ikke var den beste alikevel.
   </p>
@@ -322,31 +325,34 @@
     Lagt til mulighet for å gå tilbake i spørsmål.<br>
     Fikset stored procedure for å Inserte/Update quiz.
   </p>
-
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/26f995a2-0856-4961-86b7-090aaacfa5d8" width="200">
 <hr>
 </details>
 <details>
   <summary>
     <sup>Lørdag</sup> <h2>13.04</h2>
   </summary>
-
-
+  <p>
+    
+  </p>
 <hr>
 </details>
 <details>
   <summary>
     <sup>Søndag</sup> <h2>14.04</h2>
   </summary>
-
-
+  <p>
+    
+  </p>
 <hr>
 </details>
 <details>
   <summary>
     <sup>Mandag</sup> <h2>15.04</h2>
   </summary>
-
-
+  <p>
+    
+  </p>
 <hr>
 </details>
 
