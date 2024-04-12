@@ -29,6 +29,12 @@
         <li>
           <a href="#tabeller">Tabeller</a>
         </li>
+        <li>
+          <a href="#views">Views</a>
+        </li>
+        <li>
+          <a href="#stored-procedures">Stored Procedures</a>
+        </li>
       </ul>
     </li>
     <li>
