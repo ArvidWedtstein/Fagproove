@@ -120,6 +120,7 @@
     Der kan bruker velge mellom å logge inn med microsoft bruker eller SQL login.
     Velger bruker microsoft, blir dette kjørt internt hos microsoft og det returneres en token.<br>
     Ved SQL innlogging så sjekkes brukernavn og passord opp mot en bruker i databasen gjennom API kall.<br>
+    Dette skjer på en sikker og forsvarlig måte.<br>
     Om innlogging stemmer overens, så returnerer accesslayer en token, som indikerer at du er du.
   </p>
   <p>
