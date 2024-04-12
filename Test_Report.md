@@ -322,6 +322,29 @@
         </table>
       </details>
     </li>
+     <li>
+      <details>
+        <summary>Sjekk at det ikke er mulig å svare to ganger om bruker går tilbake</summary>
+        <table>
+          <tr>
+            <th>Funksjon</th>
+            <th>Beskrivelse</th>
+            <th>Resultat</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <th>Sjekk at det ikke er mulig å svare to ganger om bruker går tilbake</th>
+            <td>Trykket på "back" knappen</td>
+            <td>Besvart spørsmål ble låst.</td>
+            <td>
+              <table>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/7f719ab3-29eb-4bb6-b4af-90d83f944a42" width="200" /></th>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </details>
+    </li>
     <li>
       <details>
         <summary>Sjekk at resetting fungerer</summary>
