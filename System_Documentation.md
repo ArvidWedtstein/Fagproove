@@ -86,16 +86,16 @@
     </li>
     <li>
       <a href="https://github.com/ArvidWedtstein/Fagproove" title="Github">
-       <img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=fff&style=for-the-badge" alt="Github"> 
+      <img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=fff&style=for-the-badge" alt="Github"> 
       </a>
-      Fordi det va enklast å laga dokumentasjon i og lett å invitera andre.
+      <p>Fordi det va enklast å laga dokumentasjon i og lett å invitera andre</p>
     </li>
     <li>
       <p>DrawSQL</p>
       Fordi den var perfekt for å lage sql tabell diagram. Vi har i teorien en intern løsning for dette, men har av en eller annen grunn ikke fått tilgang til denne.
     </li>
     <li>
-      <img src="https://img.shields.io/badge/figma?logo=figma&style=for-the-badge" alt="Figma"> 
+      <p>Figma</p>
       Paint va ikkje et alternativ, så då blei det figma og fordi det er ganske enkelt å bruke figma.
     </li>
   </ol>
