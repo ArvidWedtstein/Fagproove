@@ -306,8 +306,9 @@
     Etter litt frem og tilbake med Roger så kom vi frem til at løsningen min fra igår ikke var den beste alikevel.
   </p>
   <p>
-    
+    La til mulighet for å fortsette på siste ikke fullførte quiz forsøk.
   </p>
+  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8d2211e7-9cab-4867-bd20-0fdf2bfc68bd" width="200">
 <hr>
 </details>
 <details>
