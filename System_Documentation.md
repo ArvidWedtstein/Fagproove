@@ -171,13 +171,14 @@
           <tr>
             <th>Stored Procedure Navn</th>
             <th>Beskrivelse</th>
-            <th>Bilder</th>
+            <th>Bilde</th>
           </tr>
           <tr>
             <td><b>astp_ArvidWedtstein_CalculateQuizAttemptPoints</b></td>
             <td>
               Brukes for å kalkulere poengsum.<br>
-              Var i utgangspunktet planen å ta me
+              Var i utgangspunktet planen å ta me antall klarte og ikke-klarte spørsmål,<br>
+              men fikk ikke tid til å implementere dette i frontend, så er derfor de ligger her foreløbig.
             </td>
             <td>
               <table>
@@ -187,28 +188,41 @@
               </table>
             </td>
           </tr>
-          </tr>
           <tr>
-            <td><b></b></td>
+            <td><b>astp_ArvidWedtstein_GetQuizQuestionsJson</b></td>
             <td>
+              Denne stored proceduren kjøres i det en quiz redigeres, før modalen åpnes.<br>
+              Alt denne gjør et å stappe spørsmålsradene og svaralternativene i et JSON objekt.<br>
+              Dette JSON objektet sendes så tilbake i stored proceduren under (astp_ArvidWedtstein_CreateOrEditQuiz) for å oppdatere, slette eller inserte radene.
             </td>
             <td>
               <table>
                 <th>
-                  <img src="" width="200" />
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/55e866c5-3ca8-4013-af24-f6ad56867666" width="200" />
                 </th>
               </table>
             </td>
           </tr>
-          </tr>
           <tr>
-            <td><b></b></td>
+            <td><b>astp_ArvidWedtstein_CreateOrEditQuiz</b></td>
             <td>
+              Denne sørger basicly for at quizdata blir oppdatert, inserted eller slettet.<br>
+              Her brukes primkey som for å sjekke om raden kan oppdateres, insertes eller slettes.<br>
+              Da data blir sendt inn gjennom JSON, har jeg "pakket" denne ut til to egne temp tabeller.<br>
+              Siden dette er nesten JSON, så ble jeg nødt til å lage en referanse til questions tabellen fra answers tabellen.<br>
+              Om PrimKey eksisterer på raden, så oppdateres denne, eksisterer den ikke, så insertes raden.<br><br>
+              Til slutt kjøres det en delete spørring som luker vekk alle radene som ikke eksisterer i Questions JSON objektet.<br>
             </td>
             <td>
               <table>
                 <th>
-                  <img src="" width="200" />
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/bcd803e2-b70a-4420-aee1-ed5cab395d67" width="200" />
+                </th>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8bc2a09e-5066-4fca-9968-23f59b16d007" width="200" />
+                </th>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/e3c350f0-fc26-41c0-82d9-c57d01e40423" width="200" />
                 </th>
               </table>
             </td>
