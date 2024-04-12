@@ -293,7 +293,7 @@
     Hver gang bruker leverer inn et svar, så vil dette lagres i databasen.
   </p>
   <p>
-    Alt dette er stylet med bootstrap (bedriftens standard) og en smule custom css.
+    Alt dette er laget i vue (med typescript) og stylet med bootstrap (bedriftens standard) og en smule custom css.
   </p>
   <hr />
 </details>
