@@ -95,9 +95,7 @@
       Fordi den var perfekt for å lage sql tabell diagram. Vi har i teorien en intern løsning for dette, men har av en eller annen grunn ikke fått tilgang til denne.
     </li>
     <li>
-      <a href="https://github.com/ArvidWedtstein/Fagproove" title="Figma">
-       <img src="https://img.shields.io/badge/figma?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma"> 
-      </a>
+      <img src="https://img.shields.io/badge/figma?logo=figma&style=for-the-badge" alt="Figma"> 
       Paint va ikkje et alternativ, så då blei det figma og fordi det er ganske enkelt å bruke figma.
     </li>
   </ol>
@@ -411,7 +409,10 @@
       <a href="https://chat.openai.com">ChatGPT (Fekk an te å forklara kossen eg brukte SQL MERGE, men fekk ikke bruk for MERGE til slutt alikevel)</a>
     </li>
     <li>
-      <a href="mailto:roger.torkelsen@omega365.com">Roger (SQL Expert)</a>
+      <a href="mailto:roger.torkelsen@omega365.com">Roger</a>
+    </li>
+    <li>
+      <a href="https://shields.io">Shields.io (bagdes)</a>
     </li>
   </ol>
  
