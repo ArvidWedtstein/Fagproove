@@ -148,8 +148,20 @@
    <p>
      Quizzen er delt opp i 2 apper, en for oversikt over alle quizzene, og en for å svare på spørsmål i en valgt quiz.<br>
      Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene.<br>
-     Er mulighet for å se tidligere forsøk på en quiz gjennom
+     Modalen funker slik at den tar en kopi av quiz innholdet ved redigering,<br>
+     og så laster dette opp til en stored procedure som sjekker om raden(e) må insertes, updates eller slettes.
    </p>
+   <p>
+     Er mulighet for å se tidligere forsøk på en quiz etter at bruker har fullført quiz eller i hovedsiden.
+   </p>
+  <p>
+    Idet bruker starter en quiz, så opprettes det et nytt "forsøk" i tabellen for quizforsøk.<br>
+    Om bruker har et ufullført forsøk fra før, så vil bruker bli spurt om dette forsøket skal fortsettes på. 
+  </p>
+  <p>
+    Bruker kan deretter begynne å svare på quiz.<br>
+    Hver gang bruker leverer inn et svar, så vil dette lagres i databasen.
+  </p>
   <hr />
 </details>
 
