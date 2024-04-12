@@ -124,7 +124,7 @@
     <li>
       <details>
         <summary>
-         Views 
+          <h4>Views</h4>: 
         </summary>
         <table>
           <tr>
@@ -179,7 +179,7 @@
     <li>
       <details>
         <summary>
-         Stored Procedures 
+          <h4>Stored Procedures</h4>:
         </summary>
         <table>
           <tr>
