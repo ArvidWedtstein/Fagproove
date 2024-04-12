@@ -264,12 +264,12 @@
             <th>Bilder</th>
           </tr>
           <tr>
-            <th>Prøvd å trykke på submit uten å ha oppgitt noe svar</th>
-            <td></td>
+            <th>Hindre å gå videre uten å ha svart</th>
+            <td>Prøvde å trykke på submit uten å ha oppgitt noe svar</td>
             <td>Fikk opp feilmelding og siden gikk ikke videre.</td>
             <td>
               <table>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/40f911ed-d858-4e14-a649-c8c04f51ff6b" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/71d82b9c-b89a-45d4-aaa7-bbba19164ad5" width="200" /></th>
               </table>
             </td>
           </tr>
@@ -278,7 +278,7 @@
     </li>
      <li>
       <details>
-        <summary>Sjekket at det funker å oppgi felt svar for å så få melding</summary>
+        <summary>Sjekket at det funker å oppgi feil svar for å så få melding</summary>
         <table>
           <tr>
             <th>Funksjon</th>
@@ -288,11 +288,11 @@
           </tr>
           <tr>
             <th>Prøvd å oppgi feil svar</th>
-            <td></td>
+            <td>Oppga feil svar med vilje for å teste at dette funker</td>
             <td>Fikk opp feilmelding og hva rett svar ville vært</td>
             <td>
               <table>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/0df47414-7f45-4db3-952e-65dfc31a3da7" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/15dc40fa-dfd4-4d8e-b385-6362212291e3" width="200"></th>
               </table>
             </td>
           </tr>
@@ -335,11 +335,11 @@
           <tr>
             <th>Trykk på reset (øvre høyre hjørne)</th>
             <td></td>
-            <td>Fikk oipp advarsel, og data ble slettet om "yes" ble trykket</td>
+            <td>Fikk opp advarsel, og data ble slettet om "yes" ble trykket</td>
             <td>
               <table>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/49c1cc1c-2c94-4d5b-b8bb-b5a20238a8e2" width="200" /></th>
-                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/dae15b15-5b16-4280-9ed3-35e947854b03" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/495f9fa3-a917-4b39-baea-0061f3567df6" width="200" /></th>
+                <th><img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/5fc8ca62-52b3-4c37-8b56-dc86691a6603" width="200" /></th>
               </table>
             </td>
           </tr>
