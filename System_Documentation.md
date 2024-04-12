@@ -24,15 +24,10 @@
       <a href="#teknologier">Teknologier</a>
     </li>
     <li>
-      <a href="#teknologier">Arkitektur</a>
+      <a href="#arkitektur">Arkitektur</a>
        <ul>
         <li>
           <a href="#tabeller">Tabeller</a>
-          <ul>
-            <li>
-              <a href="#sikkerhet-i-tabeller">Sikkerhet i Tabeller</a>
-            </li>
-          </ul>
         </li>
       </ul>
     </li>
@@ -133,7 +128,7 @@
     Så lages det ofte en aviw som henter data gjennom atbv'en for å ikke miste sikkerhetssjekken.<br>
     Stored procedures trenger egen tilgangssjekk siden de som regel unngår disse tilgangsjekkene, med mindre du spesifiseres dem i triggerene.
     <br><br>
-    I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene
+    I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene.
   </p>
   <hr />
 </details>
@@ -145,18 +140,18 @@
     For en veldig simpel beskrivelse se: <a href="User_Manual_NO.md">Brukerveiledning</a>
   </p>
   <br>
-   <p>
-     Quizzen er delt opp i 2 apper, en for oversikt over alle quizzene, og en for å svare på spørsmål i en valgt quiz.<br>
-     Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene.<br>
-     Modalen funker slik at den tar en kopi av quiz innholdet ved redigering,<br>
-     og så laster dette opp til en stored procedure som sjekker om raden(e) må insertes, updates eller slettes.
-   </p>
-   <p>
-     Er mulighet for å se tidligere forsøk på en quiz etter at bruker har fullført quiz eller i hovedsiden.
-   </p>
   <p>
-    Idet bruker starter en quiz, så opprettes det et nytt "forsøk" i tabellen for quizforsøk.<br>
-    Om bruker har et ufullført forsøk fra før, så vil bruker bli spurt om dette forsøket skal fortsettes på. 
+    Quizzen er delt opp i 2 apper, en for oversikt over alle quizzene, og en for å svare på spørsmål i en valgt quiz.<br>
+    Oppretting/redigering av quiz, spørsmål og svaralternativer skjer gjennom en modal på samme side som viser alle quizzene.<br>
+    Modalen funker slik at den tar en kopi av quiz innholdet ved redigering,<br>
+    og så laster dette opp til en stored procedure som sjekker om raden(e) må insertes, updates eller slettes.
+  </p>
+  <p>
+    Er mulighet for å se tidligere forsøk på en quiz etter at bruker har fullført quiz eller i hovedsiden.
+  </p>
+  <p>
+    I det bruker starter en quiz, så opprettes det et nytt "forsøk" i tabellen for quizforsøk.<br>
+    Om bruker har et ufullført forsøk fra før, så vil bruker bli spurt om dette forsøket skal fortsettes på.
   </p>
   <p>
     Bruker kan deretter begynne å svare på quiz.<br>
@@ -203,7 +198,10 @@
         </li>
       </ul>
       <p>
-        Endte opp med å gå for løsning nr 3. da jeg foretrakk å kunne kansellere endringer.
+        Endte opp med å gå for løsning nr 3. da jeg foretrakk å kunne kansellere endringer.<br>
+        I utgangspunktet var planen i bruke SQL Merge for dette.<br>
+        Fikk etter hvert vite av Roger, at dette ikke var så lurt da MERGE er full av bugs.<br>
+        Derfor ledet Roger meg på rett spor og jeg endte opp med å sjekke opp mot PrimKey kolonnen om raden skal oppdateres, insertes eller slettes.
       </p>
       <p>
         En av sideeffektene denne løsningen har er at brukerens forsøk på quizzen er referert til spørsmål i quizzen.<br>
