@@ -158,6 +158,9 @@
     Bruker kan deretter begynne å svare på quiz.<br>
     Hver gang bruker leverer inn et svar, så vil dette lagres i databasen.
   </p>
+  <p>
+    Alt dette er stylet med bootstrap (bedriftens standard) og en smule custom css.
+  </p>
   <hr />
 </details>
 
@@ -206,7 +209,7 @@
       </p>
       <p>
         En av sideeffektene denne løsningen har er at brukerens forsøk på quizzen er referert til spørsmål i quizzen.<br>
-        Så når spørsmålene blir slettet for å opprettes igjen så skaper dette foreign key conflict.
+        Så når et spørsmål blir slettet så skaper dette foreign key conflict.
       </p>
       <p>
         Løsningen på dette ble å rett og slett låse spørsmålet for redigering vis brukere har kjørt quizzen og fullført det spørsmålet.<br>
@@ -215,7 +218,7 @@
       <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/f323d9b3-ab67-42d4-908c-c536cee0d24f" width="200">
     </li>
   </ol>
-<hr />
+  <hr />
 </details>
 
 <details open>
