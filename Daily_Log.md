@@ -298,7 +298,7 @@
 
 <hr>
 </details>
-<details open>
+<details>
   <summary>
     <sup>Torsdag</sup> <h2>11.04</h2>
   </summary>
@@ -311,11 +311,14 @@
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8d2211e7-9cab-4867-bd20-0fdf2bfc68bd" width="200">
 <hr>
 </details>
-<details>
+<details open>
   <summary>
     <sup>Fredag</sup> <h2>12.04</h2>
   </summary>
-
+  <p>
+    Lagt til mulighet for å gå tilbake i spørsmål.<br>
+    Fikset stored procedure for å Inserte/Update quiz
+  </p>
 
 <hr>
 </details>
