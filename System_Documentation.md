@@ -414,6 +414,9 @@
     <li>
       <a href="https://shields.io">Shields.io (bagdes)</a>
     </li>
+    <li>
+      <a href="https://learn.microsoft.com/en-us/sql/t-sql/statements/merge-transact-sql?view=sql-server-ver16">Microsoft docs</a>
+    </li>
   </ol>
  
 <hr />
