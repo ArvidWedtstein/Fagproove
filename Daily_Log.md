@@ -309,6 +309,9 @@
     La til mulighet for å fortsette på siste ikke fullførte quiz forsøk.
   </p>
   <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/8d2211e7-9cab-4867-bd20-0fdf2bfc68bd" width="200">
+  <p>
+    La til mulighet for å gå tilbake til tidligere spørsmål.
+  </p>
 <hr>
 </details>
 <details open>
@@ -317,7 +320,7 @@
   </summary>
   <p>
     Lagt til mulighet for å gå tilbake i spørsmål.<br>
-    Fikset stored procedure for å Inserte/Update quiz
+    Fikset stored procedure for å Inserte/Update quiz.
   </p>
 
 <hr>
