@@ -107,6 +107,115 @@
         <a href="https://drawsql.app/teams/arvid/diagrams/quiz-application">Tabellstruktur</a>
       </details>
     </li>
+    <li>
+      <details>
+        <summary>
+         Views 
+        </summary>
+        <table>
+          <tr>
+            <th>View Navn</th>
+            <th>Beskrivelse (Hvorfor eksisterer dette viewet?)</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <td><b>aviw_ArvidWedtstein_QuizAttempts</b></td>
+            <td>
+              Dette viewet brukes for å blant annet vise stats over tidligere quiz-forsøk<br>
+              og holde styr på sist svarte spørsmål i tilfelle brukeren velger å lukke siden med uhell eller lignende.
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/2873e437-e421-4458-9430-ba7c4a84ec3e" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td><b>aviw_ArvidWedtstein_QuizAttemptsResponses</b></td>
+            <td>
+              Dette viewet brukes egentlig bare for å hente inn svartekst og om svaret er rett i tillegg til brukerens svar
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/f304bcde-0abc-4eaa-a573-a1efc0357f7f" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td><b>aviw_ArvidWedtstein_QuizQuestions</b></td>
+            <td>
+              Brukes for å sjekke om et spørsmål er låst for redigering,<br>
+              I tillegg henter dette viewet inn generell data om spørsmålstype, osv.
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/ee24ae71-ac91-46cd-bfb8-399f60f3dc9d" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+         Stored Procedures 
+        </summary>
+        <table>
+          <tr>
+            <th>Stored Procedure Navn</th>
+            <th>Beskrivelse</th>
+            <th>Bilder</th>
+          </tr>
+          <tr>
+            <td><b>astp_ArvidWedtstein_CalculateQuizAttemptPoints</b></td>
+            <td>
+              Brukes for å kalkulere poengsum.<br>
+              Var i utgangspunktet planen å ta me
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="https://github.com/ArvidWedtstein/Fagproove/assets/71834553/c16491a0-2183-4d93-bb3b-fedfeaed9c05" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+          </tr>
+          <tr>
+            <td><b></b></td>
+            <td>
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+          </tr>
+          <tr>
+            <td><b></b></td>
+            <td>
+            </td>
+            <td>
+              <table>
+                <th>
+                  <img src="" width="200" />
+                </th>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </details>
+    </li>
   </ul>
   <hr />
 </details>
@@ -116,20 +225,23 @@
     <h2>Sikkerhet</h2>
   </summary>
   <p>
-    Når bruker åpner en Appframe nettside, så blir bruker først redirected til login side.<br>
+    Autentiseringssikkerhet i appframe er slik at når bruker åpner en Appframe nettside, så blir bruker først redirected til login side.<br>
     Der kan bruker velge mellom å logge inn med microsoft bruker eller SQL login.
     Velger bruker microsoft, blir dette kjørt internt hos microsoft og det returneres en token.<br>
-    Ved SQL innlogging så sjekkes brukernavn og passord opp mot en bruker i databasen gjennom API kall.<br>
-    Dette skjer på en sikker og forsvarlig måte.<br>
-    Om innlogging stemmer overens, så returnerer accesslayer en token, som indikerer at du er du.
+    Ved SQL innlogging så sjekkes brukernavn og passord opp mot en bruker i databasen gjennom et API kall.<br>
+    Dette skjer på en sikker og forsvarlig måte.
   </p>
   <p>
-    Sikkerhet i Appframe rammeverket er slik at det lages en atbv for hver tabell.<br>
+    Tabellsikkerhet i Appframe rammeverket er slik at det lages en atbv for hver tabell.<br>
     Denne atbv'en inneholder en whereclause som sjekker opp tabellnavnet mot dine tabeller (disse tabellene fås gjennom rolletilganger, modultilganger, capabilities)<br>
     Så lages det ofte en aviw som henter data gjennom atbv'en for å ikke miste sikkerhetssjekken.<br>
     Stored procedures trenger egen tilgangssjekk siden de som regel unngår disse tilgangsjekkene, med mindre du spesifiseres dem i triggerene.
-    <br><br>
-    I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene.
+    <br>
+  </p>
+  <p>
+    I dette tilfellet så har jeg ordnet sikkerhetssjekkene i atbv'en og triggerene.<br>
+    Dermed vil ingen uten "Quiz user" rollen se, åpne eller kunne bruke quiz appen(e).<br>
+    I tillegg så kan ingen uten "Quiz Admin" redigere eller opprette nye quizer.
   </p>
   <hr />
 </details>
@@ -237,6 +349,13 @@
       <p>
         Endret litt på layout i selve siden for quiz for å få en bedre oversikt over hvilket spørsmål brukeren er på.<br>
         Reset knappen ble blant annet flyttet til høyre og hvilket spørsmål brukeren er på opp.
+      </p>
+    </li>
+    <li>
+      <p>
+        Planen var egentlig å være ferdig med stored procedures på mandag,<br>
+        dette skjedde jo selvfølgelig ikke..<br>
+        Ble en del frem og tilbake i forbindelse med å opprette/redigere quiz, så derfor måtte jeg også oppdattere brukerveileding og testrapporten i etterkant.
       </p>
     </li>
   </ol>
