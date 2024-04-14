@@ -38,6 +38,9 @@
       Funksjonalitet i appen, lag quiz legg te spørsmål osv
     </li>
     <li>
+      Stored procedure, problemer med merge
+    </li>
+    <li>
       Kjør quiz
     </li>
     <li>
@@ -54,6 +57,12 @@
   <ul>
     <li>
       Legga te mulighet for å endre på rekkefølgen til spørsmål.
+    </li>
+    <li>
+      Desgina måten man lage quiz på?
+    </li>
+    <li>
+      
     </li>
   </ul>
 <hr>
