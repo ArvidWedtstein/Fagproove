@@ -47,3 +47,15 @@
 <hr>
 </details>
 
+<details>
+  <summary>
+    <h2>Plan videre</h2>
+  </summary>
+  <ul>
+    <li>
+      Legga te mulighet for å endre på rekkefølgen til spørsmål.
+    </li>
+  </ul>
+<hr>
+</details>
+
