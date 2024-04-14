@@ -62,7 +62,7 @@
       Desgina måten man lage quiz på?
     </li>
     <li>
-      
+      Dela quizresultat med andre?
     </li>
   </ul>
 <hr>
