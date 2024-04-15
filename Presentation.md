@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<details open>
+<details>
   <summary>
     <b>Table of Contents</b>
   </summary>
@@ -50,7 +50,7 @@
 <hr>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Plan videre</h2>
   </summary>
