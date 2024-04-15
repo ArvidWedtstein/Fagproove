@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<details>
+<details open>
   <summary>
     <b>Table of Contents</b>
   </summary>
@@ -23,7 +23,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>Presentasjon</h2>
   </summary>
@@ -35,7 +35,7 @@
       Roller / moduler / access
     </li>
     <li>
-      Funksjonalitet i appen, lag quiz legg te spørsmål osv
+      Funksjonalitet i appen, lag quiz legg te spørsmål osv, universell utforming
     </li>
     <li>
       Stored procedure, problemer med merge
