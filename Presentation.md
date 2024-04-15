@@ -35,7 +35,7 @@
       Roller / moduler / access
     </li>
     <li>
-      Funksjonalitet i appen, lag quiz legg te spørsmål osv, universell utforming
+      Funksjonalitet i appen, lag quiz legg te spørsmål osv, universell utforming, bootstrap, vue, typescript
     </li>
     <li>
       Stored procedure, problemer med merge
