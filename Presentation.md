@@ -64,6 +64,9 @@
     <li>
       Dela quizresultat med andre?
     </li>
+    <li>
+      Dashboard for å se brukeres svar
+    </li>
   </ul>
 <hr>
 </details>
